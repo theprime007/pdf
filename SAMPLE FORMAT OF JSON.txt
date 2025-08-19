@@ -1,0 +1,183 @@
+﻿{
+  "section": "Section 3: Measurement Techniques - MCQ Breakdown",
+  "total_questions": 35,
+  "time_limit": 60,
+  "target_score": "80%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The least count of a vernier caliper is usually:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.01 mm",
+        "0.1 cm",
+        "1 mm"
+      ],
+      "correct_answer": "0.1 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Many educational vernier calipers have 10 vernier divisions over 9 mm on the main scale, giving a least count of 0.1 mm, though other designs like 0.02 mm also exist."
+    },
+    {
+      "id": "q2",
+      "text": "Which instrument is used to measure very small lengths?",
+      "type": "multiple_choice",
+      "options": [
+        "Meter rule",
+        "Vernier caliper",
+        "Screw gauge (micrometer)",
+        "Measuring tape"
+      ],
+      "correct_answer": "Screw gauge (micrometer)",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "A micrometer screw gauge measures very small lengths/thicknesses with typical least count 0.01 mm, offering higher precision than vernier calipers."
+    },
+    {
+      "id": "q3",
+      "text": "A screw gauge is used to measure:",
+      "type": "multiple_choice",
+      "options": [
+        "Large distances",
+        "Small thickness",
+        "Volume",
+        "Weight"
+      ],
+      "correct_answer": "Small thickness",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometer screw gauges are precision tools for small dimensions such as thickness and wire diameter, commonly reading to 0.01 mm."
+    },
+    {
+      "id": "q4",
+      "text": "Direct measurement means:",
+      "type": "multiple_choice",
+      "options": [
+        "Using formula",
+        "Direct reading from instrument",
+        "Calculation",
+        "Estimation"
+      ],
+      "correct_answer": "Direct reading from instrument",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Direct measurement takes the value straight from the instrument scale without computed conversion, unlike indirect methods using formulas or displacement."
+    },
+    {
+      "id": "q5",
+      "text": "To measure volume of an irregular object, we use:",
+      "type": "multiple_choice",
+      "options": [
+        "Formula",
+        "Water displacement",
+        "Weight",
+        "Length measurement"
+      ],
+      "correct_answer": "Water displacement",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The water displacement method determines volume of irregular solids by the rise in liquid level when the object is submerged, applying Archimedes’ principle."
+    },
+    {
+      "id": "q6",
+      "text": "Typical least count of a standard metric micrometer is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.05 mm",
+        "0.01 mm",
+        "0.5 mm"
+      ],
+      "correct_answer": "0.01 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "For a typical metric micrometer with 0.5 mm pitch and 50 divisions, least count = 0.5/50 = 0.01 mm."
+    },
+    {
+      "id": "q7",
+      "text": "A common vernier caliper variant has least count:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5 mm",
+        "0.2 mm",
+        "0.02 mm",
+        "2 mm"
+      ],
+      "correct_answer": "0.02 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Many vernier calipers use 50 vernier divisions over 49 mm (metric), yielding 1 mm/50 = 0.02 mm least count, often engraved on the scale."
+    },
+    {
+      "id": "q8",
+      "text": "The least count (vernier constant) of a vernier caliper equals:",
+      "type": "multiple_choice",
+      "options": [
+        "1 MSD + 1 VSD",
+        "1 MSD − 1 VSD",
+        "MSD × VSD",
+        "VSD/MSD"
+      ],
+      "correct_answer": "1 MSD − 1 VSD",
+      "points": 3,
+      "category": "Measurement Principle",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Vernier constant LC = 1 main-scale division − 1 vernier-scale division, which gives the smallest resolvable reading."
+    },
+{
+      "id": "q35",
+      "text": "Which pair is correctly matched: instrument — typical measurement use?",
+      "type": "multiple_choice",
+      "options": [
+        "Micrometer — inner diameter of large pipe",
+        "Vernier caliper — thickness of small sheet",
+        "Measuring tape — screw thread pitch",
+        "Micrometer — small thickness/diameter"
+      ],
+      "correct_answer": "Micrometer — small thickness/diameter",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometers are specifically designed for precise small thickness/diameter measurements such as sheets and wires."
+    }
+  ],
+  "scoring": {
+    "total_points": 85,
+    "passing_score": 68,
+    "grade_scale": {
+      "A": "76-85",
+      "B": "68-75",
+      "C": "59-67",
+      "D": "50-58",
+      "F": "0-49"
+    }
+  },
+  "instructions": {
+    "time_management": "Average 51 seconds per question",
+    "difficulty_distribution": {
+      "easy": "25 questions (72%)",
+      "medium": "10 questions (28%)"
+    },
+    "category_distribution": {
+      "Instrument-based": "23 questions",
+      "Measurement Principle": "12 questions"
+    }
+  }
+}
