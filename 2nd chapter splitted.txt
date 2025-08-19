@@ -1,0 +1,727 @@
+
+
+¦ Archimedes law is related	- law of flotation
+¦ When an object is fully or partially immersed in a liquid then its weight appears decreases and equal to the weight appears decreases and equal to the weight of the liquid displaced by that object. It is based on the principle of	-Archimedes Principle
+¦ The scientist related to buoyancy is   - Archimedes
+¦ A piece of iron should not float on the surface of the water is due to	- The weight of the mass displaced
+by it is less than iron ball.
+¦ Which country did the great scientist Archimedes belong.	-Greece
+¦ When a stone is brought from the surface of the moon to the earth, then
+- Its weight will change but mass not change.
+¦ A person sitting in a lift feel his weight more when
+-lift moving upward with uniform velocity
+
+
+
+
+1. A 10 N force is applied on a body which produces in it an acceleration of 2 m/s2. The mass of the body is
+(a) 5 kg	(b) 10 kg
+(c) 15 kg	(d) 20 kg
+RRB ALP CBT II Physics & Maths 21 .01.2019 Shift III
+2. If a force of 250 N acts on a body at rest, the momentum required is 125 kgm/s. The time for which the force acts on the body is
+(a) 0.5 s	(b) 0.2 s
+(c) 0.1 s	(d) 0.3 s
+RRB ALP CBT II Physics & Maths 21 .01.2019 Shift III
+3. Two spheres of masses m and M are situated in air and the gravitational force between them is
+F. The space between the masses is now filled with a liquid of specific gravity 3. The gravitational force will now be
+(a) F/3	(b) F/9
+(c) 3F	(d) F
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift I
+
+
+
+¦ The tennis ball lands higher on a hill than on the field due to	- Earth's Gravitational acceleration
+on mountains gets less.
+¦ If the gravitational force of the earth suddenly vanishes, then
+- The weight of the object will become zero, but the value remain the same.
+¦ Steel bullet floats in mercury because
+  -The density of mercury is higher than that of steel.
+¦ When a boat goes to sea from river then
+- Rises slightly upward.
+¦ On changing the quantity of the object will remain unchanged	-Density
+¦ The wall below the dam is built thick because
+-Pressure of liquid increases with increases in depth.
+¦ The distance covered by a body free fall is proportional to	- Square of time of fall
+
+
+
+
+
+? ?2	?	?2  ? a ?2
+a	? AD  ? ? 2 ?
+?  ?
+2	a 2	2
+a ?		? AD 4
+3a 2 ?	2
+AD
+4
+Then,FAD ?4GM23a25. The quantity of motion of a body is best represented by
+(a) Its velocity
+(b) Its speed
+(c) Its mass
+(d) Its linear momentum
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift I
+6. A spring when compressed by 4 cm has 2 J energy stored in it. The force required to extend it by 8 cm will be
+(a) 2 N	(b) 20 N
+(c) 2000 N	(d) 200 N
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift I
+7. Three blocks of masses m1 , m2 and m3 are connected by mass less strings as shown in figure on a frictionless table.
+
+They are pulled with a force F = 40 N. If m1 = 10 kg, m2 = 6 kg and m3 = 4 kg then tensions T2 will be
+(a) 20 N	(b) 40 N
+(c) 10 N	(d) 32 N
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift I
+
+
+
+
+8. Which of the following force is conservative?
+(a) Frictional force	(b) Air resistance
+(c) Electrostatic force	(d) Viscous force
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift I
+
+9. A man weighs 'W' on the surface of earth and
+his weight at a height '2R' from surface of earth is (R is the Radius of earth).
+
+(a) w 9
+
+(b) w 6
+
+(c) w	(d) w
+3
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift II
+
+Ans. (a) : g = GM
+R 2
+
+[given h = 2R]
+
+
+g ' ?
+
+g' =
+
+GM
+
+
+?R ? h?2 GM
+
+
+
+? GM
+
+
+
+? GM ? g
+	
+
+?R ? 2R ?2
+w = mg w' = mg'
+w' = mg
+9
+
+?3R ?2
+
+9R 2	9
+
+
+w ' ?w910. A bullet of mass 0.05 kg is moving with a speed of 90 m/s and hits a heavy wooden block. The bullet enters the block and stops at a depth of 30 cm. Then the average force exerted by the wooden block on the bullet to resist the motion is
+(a) 675 N	(b) 150 N
+(c) 250 N	(d) 270 N
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+
+
+
+
+11. Two wires, A and B, of same material and length are stretched by applying the same load. If the diameter of wire A is twice that of wire B, then the ratio of the extensions produced in the wires by applying the same load will be
+(a) 1 : 2	(b) 2 : 1
+(c) 1 : 4	(d) 1 : 1
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+Ans. (c) : Given that,
+Diameter of A = 2× diameter of B Let diameter of B = d,
+So,
+diameter of A = 2d
+Change in length (??) = F.?
+?.A
+Where, F = Force or load
+? = original length
+?= Young's modules A = cross section area
+From the questions,
+The force, original length (?) and young's modulus is same for both wire.
+So,
+
+Change in length of wire A, (??)A
+
+= F.?
+?.A
+
+(??)B
+
+= F.?
+?.A'
+
+
+
+??2d?2
+
+Area of wire BA(A') =	4
+?d2
+Area of wire A(A) =
+4
+
+
+
+Put the value of Area of wire A and B
+F?
+? ? ?2d?2
+
+So,
+
+(??)A ?   4	
+
+
+(??)B
+
+ratio = (??)A ? 1
+
+F.?
+
+
+? ? d2
+4
+
+(??)B	4
+12. Moment of inertia of a thin circular ring of mass M and R rotating about an axis, passing through its centre and perpendicular to the plane is
+(a) MR2	(b) MR2/4
+(c) MR2/2	(d) (2/5) MR2
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+13. Which of the following will not exist for a liquid in a gravity - free space
+(a) Viscosity	(b) Surface tension
+(c) Upward thrust	(d) Pressure
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+Ans. (c) :
+Upward thrust is defined as the force that is exerted on an object by the fluid when the object is submerged. It is also called as buoyant force. It always acts upwards. It always acts against the weight of an object.
+Fbuoyant = ? × g × V
+Where, ? = density of fluid
+g = acceleration due to gravity V = volume of fluid
+In gravity free space,
+Fbuoyant = 0
+That is upward thrust will not exist in a gravity free space.
+
+
+
+Viscosity : The property of a fluid which opposes the relative motion between the layer is called viscosity.
+Surface tension : It is a property of liquids characterized by the surface molecules tendency to shrink into a lower surface area as a result of bulk force from inner molecules.
+
+surface tension =
+
+force length
+
+Pressure : Fluid pressure is a measurement of the force
+per unit area on an object in the fluid or on the surface of a closed container.
+* Viscosity, surface tension and pressure does not depends on the gravity.
+14. Two objects A and B of masses 4 kg and 6 kg are acted upon by the forces F1 and F2 required to accelerate them at 7 m/s2 and 4 m/s2 respectively. Which of the following relationships between the force F1 and F2 holds true for the required purpose?
+(a) F1 > F2 only
+(b) F1 = F2
+(c) F1 < F2 or F1 > F2, depending on the mass density of the material of the objects.
+(d) F1 < F2 only
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+
+15. Dirt can be removed from a carpet by shaking
+it vigorously for some time in process that is based on
+(a) Second law of motion
+(b) Both third and second laws of motion
+(c) Third law of motion
+(d) First law of motion
+RRB ALP CBT II Physics & Maths 22 .01.2019 Shift III
+
+
+
+
+16. What is the relative density of a solid of mass
+50 gm which when fully immersed in water weighs 10 gm?
+(a)  0.8	(b)  1.25
+(c)  2.5	(d)  5
+RRB ALP & Tech. 23.01.2019 Shift-I
+17. Find the length (in cm) of the edge of a cube of a piece of wood which weighs 80 N. (Use g = 10 m/s2, density of wood = 1g/cm3)
+(a) 60	(b)  20
+(c)  80	(d)  40
+RRB ALP & Tech. 23.01.2019 Shift-I
+
+18. Find mass of an iron cube of side 2 cm. (Density of iron is 7.8 gm/cm3)
+(a) 15.6gm	(b)  3.9gm
+(c)  0.975gm	(d)  62.4gm
+RRB ALP & Tech. 23.01.2019 Shift-I
+
+
+
+
+19. An object with greater-----has greater inertia
+(a) Acceleration	(b)  Mass
+(c)  Velocity	(d)  Volume
+RRB ALP & Tech. 23.01.2019 Shift-I
+
+20. Acceleration due to gravity on moon is 1/6th
+that on earth. How would an astronaut weigh on moon if he weight 90 kgf on earth? (acceleration due to gravity on earth = 10m/s2)
+(a) 9N	(b)  90N
+(c)  150N	(d)  J15
+RRB ALP & Tech. 23.01.2019 Shift-I
+
+21. Acceleration due to gravity on Jupiter is two
+and a half times that on earth. How much would a 250 kg satellite weight (in N) on Jupiter? (acceleration due to gravity on earth = 10m/s2)
+(a) 6250	(b)  10
+(c)  625	(d)  100
+RRB ALP & Tech. 23.01.2019 Shift-II
+22. A block of metal of mass 500 g has a relative density of 2.5. What will be its apparent mass when it is fully immersed in water?
+(a) 250g	(b)  300g
+(c)  200g	(d)  400g
+RRB ALP & Tech. 23.01.2019 Shift-II
+Ans : (b) Actual mass = 500 relative density = 2.5 apparent mass = ?
+Relative density =	Actual mass
+Actual mas - appearant mass
+2.5 ?	500
+500 ? x
+2.5 (500-x) = 500
+1250 - 2.5x = 500
+2.5x = 1250 - 500
+x = 750
+2.5x = 300g
+
+
+23. A uniform meter scale weights 50g. It is pivoted at the 70cm mark. Where should a 40 g mass be placed so that the scale is in equilibrium?
+(a) At the 45 cm mark  (b)  At the 25 cm mark
+(c)  At the 95 cm mark  (d)  At the 5 cm mark
+RRB ALP & Tech. 23.01.2019 Shift-II
+
+24. Find the mass (in kg) of a tank completely
+filled with kerosene of dimensions 5m × 2m × 1m (Density of kerosene is 800 kg/m3)
+(a) 8000	(b)  1250
+(c)  800	(d)  12500
+RRB ALP & Tech. 23.01.2019 Shift-II
+
+25. Acceleration due to gravity is highest at	.
+(a) the poles	(b)  the equator
+(c) at an infinite distance from the earth
+(d) the center of the earth
+RRB ALP & Tech. 23.01.2019 Shift-II
+
+
+26. Find the density (in kg/m3) of a piece of wood measuring 6cm×8cm×5cm and weighing 1.92N (g = 10m/sec2)
+(a) 3000	(b)  300
+(c)  8000	(d)  800
+RRB ALP & Tech. 23.01.2019 Shift-II
+27. Find the length of the edge of a metal cube of density 8 g/cm3 which weight 17.28 kN. (Use g
+= 10 m/s2)
+(a) 9 cm	(b) 8 cm
+(c) 10 cm	(d) 6 cm
+RRB ALP & Tech. 08.02.2019 Shift-I
+
+
+
+
+
+28. Two children of 24 kg and 16 kg sit on one side of a see-saw at a distance of 1 m and 0.625 m respectively, from the fulcrum. If a body of 'm' kg sits on the other side of the see-saw at a distance of 1.6 m from the fulcrum and the see- saw is in equilibrium. Find m.
+(a) 21.25 kg	(b) 32.25 kg
+(c) 27.75 kg	(d) 36.75 kg
+RRB ALP & Tech. 08.02.2019 Shift-I
+
+
+
+
+
+
+
+
+
+
+29. The gravitational acceleration is 	m/s2 at the equator.
+(a) 9.87	(b) 9.72
+(c) 9.78	(d) 9.83
+RRB ALP & Tech. 08.02.2019 Shift-I
+
+30. Acceleration due to gravity on Mars is 1/3rd
+that on earth. How much would an astronaut weight on Mars if he weighs 72 kg on earth? (Acceleration due to gravity on earth = 10 m/s2)
+(a) 720 N	(b) 240 N
+(c) 120 N	(d) 360 N
+RRB ALP & Tech. 08.02.2019 Shift-I
+
+31. What is the relative density of a solid of mass
+75 gm which when fully immersed in water weighs 25 gm?
+(a) 1.5	(b) 0.8
+(c) 1.6	(d) 2.5
+RRB ALP & Tech. 08.02.2019 Shift-I
+
+
+
+
+32. The effort done to shift a load is 15 units and
+the work done by the machine is 3. Then find the weight.
+(a) 45unit	(b)  3unit
+(c)  5 unit	(d)  15 unit
+RRB ALP & Tech. 23.01.2019 Shift-III
+33. If the specific gravity of a body is less than 1, it will float on 	.
+(a) Water	(b)  Liquid
+(c)  Mercury	(d)  Air
+RRB ALP & Tech. 23.01.2019 Shift-III
+34. The volume of a certain amount of water between 0°C to 4°C is 	.
+(a) Increases	(b)  Decreases
+(c)  Remains constant	(d)  Zero
+RRB ALP & Tech. 23.01.2019 Shift-III
+35. If a body is not homogeneous, then its density is a function of its 	.
+(a) Pressure	(b)  Position
+(c)  acceleration	(d)  velocity
+RRB ALP & Tech. 23.01.2019 Shift-III
+36. It is mainly due to the gravitational effect of the   on the rotating earth that the level of water in the sea rises and falls.
+(a) Moon	(b)  Venus
+(c)  Mercury	(d)  Sun
+RRB ALP & Tech. 23.01.2019 Shift-III
+
+
+
+37. An object weighs X units on the earth. If we take the same object to the moon, its weight there will be........
+(a) more than X	(b)  equal to X
+(c)  less than X	(d)  zero
+RRB ALP & Tech. 23.01.2019 Shift-III
+38. A block of wood floats on water, with 65% of its volume under water. Its density (in kg/m3) is approximately.
+(a) 0.55?103	(b)  0.35?102
+(c)  0.25?102	(d)  0.65?103
+RRB ALP & Tech. 22.01.2019 Shift-I
+39. The density of fresh water is	 the density of salt water :
+(a) less than	(b)  more than
+(c) negligible compared with
+(d) equal to
+RRB ALP & Tech. 22.01.2019 Shift-I
+40. The mass density or density of a material is defined as its 	.
+(a) mass per unit volume
+(b) mass per unit length
+(c) mass per unit area
+(d) mass per ampere
+RRB ALP & Tech. 22.01.2019 Shift-I
+
+41. Let We and Wm be the weight of an object on the Earth and the Moon, respectively. Then, the ratio We/Wm is equal to 	.
+(a) 2	(b)  1
+(c)  6	(d)  4
+RRB ALP & Tech. 22.01.2019 Shift-I
+
+
+
+
+42. The relative density of gold is 19.3. Its density in SI unit is:
+(a) 19.3 kg/m3	(b) 19.3 × 103 kg/m3
+(c) 1.93 ×102 kg/m3	(d) 19.3 × 10 kg/m3
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+43. If an object has a mass of 100 kg on Earth,
+what would be its mass on the Moon?
+(a) 980 kg	(b) 100 kg
+(c) 0 kg	(d) 16.7 kg
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+44. The Ideal-gas equation is 	.
+(a) P/VT = ?R	(b) T/PV = ?R
+(c) PV/T = ?R	(d) PV/T = (1/?)R
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+45. Water has the maximum density at 	°C.
+(a) 4	(b) 22
+(c) 2	(d) 0
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+
+
+
+46. Consider a planet whose mass and radius both are one half to that of Earth. An object of weight W on Earth will weigh   on that planet.
+(a) W/2	(b) 2W
+(c) W/4	(d) W
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+47. A cubical block of side 10 cm and with a mass
+of 600 g floats in water. How much of the cube is submerged?
+(a) 30%	(b) 40%
+(c) 60%	(d) 50%
+ RRB ALP & Tech. 22.01.2019 Shift-II RRB ALP & Tech. 22.01.2019 Shift-III
+48. The actual weight of a person is determined by his:
+(a) Mass and the acceleration due to gravity
+(b) Mass
+(c) Mass and width
+(d) Mass and height
+RRB ALP & Tech. 22.01.2019 Shift-II
+
+49. The acceleration due to gravity on the Moon is (1/6) of that on the Earth. Hence, an object weighing 12 N on the Earth will weigh   on
+the Moon.
+(a) 6 N	(b) 72 N
+(c) 2 N	(d) 12 N
+RRB ALP & Tech. 21.01.2019 Shift-I
+
+50. Identify the variable from below that does not
+describe the behaviour of a gas.
+(a) Temperature	(b) Volume
+(c) Pressure	(d) Time
+RRB ALP & Tech. 21.01.2019 Shift-I
+Ans : (d) : Ideal gas equation is - PV = nRT
+Where, P = atmospheric pressure V = Volume
+
+
+
+n = no. of moles R = Gas constant T = Temperature
+Hence, time is not describe the behaviour of gas.
+51. The density of an ideal gas can be doubled by halving the :
+(a) Absolute temperature	(b) Velocity
+(c) Mass	(d) Pressure
+RRB ALP & Tech. 21.01.2019 Shift-I
+52. An object of a specific mass will weigh -
+(a) more on earth than on the moon
+(b) same on both earth and moon
+(c) less on the earth than on the moon
+(d) zero on the earth
+RRB ALP & Tech. 22.01.2019 Shift-III
+53. The density of ice is -------- compared to the density of water.
+(a) Equal	(b)  Negligible
+(c)  Less	(d)  More
+RRB ALP & Tech. 22.01.2019 Shift-III
+
+54. The mass of an object is a numerical measure
+of its --------.
+(a) Velocity	(b)  Gravity
+(c)  Inertia	(d)  Acceleration
+RRB ALP & Tech. 22.01.2019 Shift-III
+
+55. The apparent mass of a piece of metal when fully immersed in water is 60 gm. If the relative density of this metal piece is 2.5, find its actual mass (in gm)?
+(a) 300	(b) 40
+(c) 400	(d) 100
+RRB ALP & Tech. 21.01.2019 Shift-II
+
+
+
+
+56. Find the volume (in cm3) of a piece of metal of density 5000 kg/m3 and which weights 10.8 N. (Use g = 10 m/s2)
+(a) 21.6	(b) 216
+(c) 540	(d) 54
+RRB ALP & Tech. 21.01.2019 Shift-II
+
+57. A body of mass 60 kg weight 222 N on Mars. What is the acceleration due to gravity (in m/s2) on Mars?
+(a) 4.9	(b) 13.32
+(c) 19.8	(d) 3.7
+RRB ALP & Tech. 21.01.2019 Shift-II
+58. The weight of the object appears on one pan of a faulty scale as W1 and on the other pan as W2. True weight of the object-
+
+
+
+
+
+(a) (W1+W2)	(b)
+
+W1 ? W2 2
+
+(c)	(d)  W1 × W2
+     RRB Asst. Loco Pilot/Technician (Ahmedabad)-2014 Ans. (c) : According to the question, it the weight of an object is W in one pan of an defective scale and W2 on
+the other pan, then the correct weight of the object is equal to the geometrical mean of W1 and W2.
+i.e
+W ?  W2 ? W2
+59. On the placing of body successively in the pans of a faulty balance. whose sides are unequal, its weight appeared to be 6.4 grains and 10 grams. The correct weight of the body is -
+(a) 10 gm	(b)  14 gm
+(c)  8.2 gm	(d)  8 gm
+RRB Asst. Loco Pilot/Technician (Ranchi)-2014
+
+Ans. (d): Actual weight  =
+=	6.4 ?10
+= 8 gram.
+
+W1 ? W2
+
+60. A wooden plank can rotate on a horizontal axis fixed in the middle. A child of mass 20 kg sits on one side the axis at a distance of 1.5m from the axis and on the other side another child of weight 16 kg sits at a distance of 2.0 m from the axis, then which boy will rise.
+(a) 20 kg-weight	(b)  16 kg-weight
+(c)  None of these	(d)  both (a) and (b)
+         RRB Asst. Loco Pilot/Technician (Kolkata)-2014 Ans. (a) : The child whose torque is less about the middle point of the frame will rise up. the torque of the
+20W boy is 20 × 1.5, less then the torque (16 × 2 = 32)
+of the 16 W boy. therefore, 20W boy will rise up.
+61. In comparison to the measurement of the surface of the Earth, those on top of Mr. Everest demonstrate :
+(a) decrease in weight with mass remaining the same
+(b) increase in the mass with weight remaining the same
+(c) decrease in both mass and weight
+(d) increase in both mass and weight
+RRB SSE Secundrabad (Shift-I), 01.09.2015
+62. If two liquids of same mass and densities D1 and D2 are mixed then density of mixture-
+
+(a)
+
+(c)
+
+D1 ? D2
+
+2
+2D1D2
+
+D1 ? D2
+
+(b)
+
+(d)
+
+D1D2 D1 ? D2 D1 ? D2 D1D2
+
+RRB Kolkata Chemical & Metallurgical
+Er., 01.12.2002
+
+
+
+
+
+63. The mass of an object is 100kg. If acceleration
+
+due to gravity on the moon is 1
+6
+
+then mass of an
+
+object on the surface of the moon will be -
+(a) 100/6 kg	(b) 60 kg
+(c) 100 kg	(d) 600 kg
+RRB Bangalore Section Engineer (Civil) 01.02.2009
+
+
+64. It is easier to swim in the sea than in the river because -
+(a) Sea water is deep
+(b) Density of sea
+(c) Water keep rising in the ocean
+(d) The density of water in the sea is less
+DMRC Mechanical Engineering, 18.02.2017
+
+65. The weight of an object is maximum
+(a) on the equator
+(b) on the surface of the earth
+(c) at the centre of the earth
+(d) on the poles of the earth
+RRB Chandigarh Section Engineer (Civil), 26.02.2012
+
+
+
+
+66. The weight of a body at the centre of earth is:
+(a) half the weight at the surface
+(b) infinite
+(c) twice the weight at the surface
+(d) zero
+RRB Chandigarh Section Engineer
+(Mech.), 26.02.2012
+
+
+
+67. The relative density of ice is 0.9 then what part of it will be above the water when it is put in water?
+(a) 0.9	(b) 0.1
+(c) zero	(d) None of these
+DMRC Electronics Engineering, 21.09.2014
+68. The weight of body in air is 30g and when immersed in water is 26.25g. The relative density of the material of the body is -
+
+(a) 8
+9
+
+(b) 8
+7
+
+(c) 8	(d) 8g/cm3
+RRB Ranchi Signal Maintainer Group-III, 20.11.2005
+69. Two liquids which are equal to weight, are mixed, their density are ?1 and ?2 respectively. The density of mixture will be -
+
+(a)
+
+(c)
+
+?1 ? ?2
+
+2
+?1 ? ?2
+
+?1?2
+
+(b)
+
+(d)
+
+2?1?2
+
+?1 ? ?2
+?2 ? ?1
+
+2
+
+RRB Allahabad Signal Maintainer-II, 22.01.2006
+Ans. (b) : Let, weight of the liquids are W and volume are V1 and V2.
+density of mixture = total mass of maxture
+total volumeof mixture
+?M1 ? M2 ? ?   2M   ?? W1 ? W2 ? W?
+?V ? V ?	M ? M ??M ? M ? M ?
+1	2	?	1	2	?
+?1	?2
+?	2	?	2
+1 ?  1	?1 ? ?1
+?1	?2	?1?2Density of mixture ? 2?1?2
+?1 ? ?2
+
+
+70. A vessel has, mercury (density =13.6 g/cm3) at the bottom and oil (density 0.8 g/cm3) at the top. Half of the volume of a floating homogeneous sphere is immersed in mercury and half, in oil. The density (g/cm3) of the material of the sphere.
+(a) 3.3   (b) 6.4    (c) 7.2   (d) 12.8
+Delhi Metro Rail Corporation Train Operators',
+14.09.2003
+71. The reading of spring balance when a block of air is suspended from it is 60 N. When the block is immersed in less volume in water. The reading of a balance changes to 40 N - the relative density of the block should be -
+(a) 3	(b) 2	(c) 6	(d)	3
+2
+RRB Bangalore Material Superintendent,
+21.11.2004
+
+72. A vessel is filled with oil of relative density 1.2 up to a height of 3cm and water is filled up to 10 cm above it. If the relative density of mercury is 13.6 then the bottom of the vessel will be.
+(a) Equal to 1 cm of Hg (b) Equal to 5 cm of Hg
+(c) Equal to 13cm of Hg
+(d) Equal to 15 cm of Hg.
+RRB Trivandrum (Tech.), 09.11.1997
+73. Among four substance M1, M2, M3 and M4 of different masses having the same volume. Which substance will have the least density If M2>M3>M1>M4 then.
+(a) M1   (b) M3	(c) M4   (d) M2
+RRB Trivandrum (Tech.), 11.04.1999
+
+
+
+74. If the volume of four bodies of equal mass are V1, V2, V3 and V4 respectively then which body will have greater density if V4 > V2 > V3 > V1 then
+(a) V2	(b) V3
+(c) V1	(d) V4
+RRB Trivandrum (Tech.), 29.06.1999
+75. What is density. of solid metals when hearted
+(a) Increases	(b) Decreases
+(c) Equal	(d) None of these
+RRB Kolkata (Tech.), 29.08.1999
+76. Generally, the density of any liquid increases with increases temperature -
+(a) decrease	(b) increase
+(c) remains constant
+(d) first increase and then decreases
+RRB Kolkata Supervisor (P. Way), 20.02.2000
+77. Whose density will be higher in the same quantity of viscous (thick) liquid and non- viscous liquid.
+(a) viscous	(b) non-viscous liquid
+(c) None	(d) both (a) and (b)
+ RRB Mumbai Electrical/ Diesel Drivers', 03.06.2001
+78. A body of a substance whose density is d is immersed in a liquid of density &, which completely sinks then -
+(a) d > ?	(b) ? > d
+(c) d = ?	(d) None of these
+RRB Bhopal Section Engineer, 24.11.2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
