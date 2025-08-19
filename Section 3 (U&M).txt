@@ -1,0 +1,625 @@
+﻿{
+  "section": "Section 3: Measurement Techniques - MCQ Breakdown",
+  "total_questions": 35,
+  "time_limit": 60,
+  "target_score": "80%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The least count of a vernier caliper is usually:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.01 mm",
+        "0.1 cm",
+        "1 mm"
+      ],
+      "correct_answer": "0.1 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Many educational vernier calipers have 10 vernier divisions over 9 mm on the main scale, giving a least count of 0.1 mm, though other designs like 0.02 mm also exist."
+    },
+    {
+      "id": "q2",
+      "text": "Which instrument is used to measure very small lengths?",
+      "type": "multiple_choice",
+      "options": [
+        "Meter rule",
+        "Vernier caliper",
+        "Screw gauge (micrometer)",
+        "Measuring tape"
+      ],
+      "correct_answer": "Screw gauge (micrometer)",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "A micrometer screw gauge measures very small lengths/thicknesses with typical least count 0.01 mm, offering higher precision than vernier calipers."
+    },
+    {
+      "id": "q3",
+      "text": "A screw gauge is used to measure:",
+      "type": "multiple_choice",
+      "options": [
+        "Large distances",
+        "Small thickness",
+        "Volume",
+        "Weight"
+      ],
+      "correct_answer": "Small thickness",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometer screw gauges are precision tools for small dimensions such as thickness and wire diameter, commonly reading to 0.01 mm."
+    },
+    {
+      "id": "q4",
+      "text": "Direct measurement means:",
+      "type": "multiple_choice",
+      "options": [
+        "Using formula",
+        "Direct reading from instrument",
+        "Calculation",
+        "Estimation"
+      ],
+      "correct_answer": "Direct reading from instrument",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Direct measurement takes the value straight from the instrument scale without computed conversion, unlike indirect methods using formulas or displacement."
+    },
+    {
+      "id": "q5",
+      "text": "To measure volume of an irregular object, we use:",
+      "type": "multiple_choice",
+      "options": [
+        "Formula",
+        "Water displacement",
+        "Weight",
+        "Length measurement"
+      ],
+      "correct_answer": "Water displacement",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The water displacement method determines volume of irregular solids by the rise in liquid level when the object is submerged, applying Archimedes’ principle."
+    },
+    {
+      "id": "q6",
+      "text": "Typical least count of a standard metric micrometer is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.05 mm",
+        "0.01 mm",
+        "0.5 mm"
+      ],
+      "correct_answer": "0.01 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "For a typical metric micrometer with 0.5 mm pitch and 50 divisions, least count = 0.5/50 = 0.01 mm."
+    },
+    {
+      "id": "q7",
+      "text": "A common vernier caliper variant has least count:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5 mm",
+        "0.2 mm",
+        "0.02 mm",
+        "2 mm"
+      ],
+      "correct_answer": "0.02 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Many vernier calipers use 50 vernier divisions over 49 mm (metric), yielding 1 mm/50 = 0.02 mm least count, often engraved on the scale."
+    },
+    {
+      "id": "q8",
+      "text": "The least count (vernier constant) of a vernier caliper equals:",
+      "type": "multiple_choice",
+      "options": [
+        "1 MSD + 1 VSD",
+        "1 MSD − 1 VSD",
+        "MSD × VSD",
+        "VSD/MSD"
+      ],
+      "correct_answer": "1 MSD − 1 VSD",
+      "points": 3,
+      "category": "Measurement Principle",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Vernier constant LC = 1 main-scale division − 1 vernier-scale division, which gives the smallest resolvable reading."
+    },
+    {
+      "id": "q9",
+      "text": "A graduated cylinder is primarily used in displacement method to measure:",
+      "type": "multiple_choice",
+      "options": [
+        "Mass",
+        "Density directly",
+        "Volume change",
+        "Temperature"
+      ],
+      "correct_answer": "Volume change",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The displacement technique records initial and final liquid volumes and subtracts them to obtain the volume of the immersed irregular object."
+    },
+    {
+      "id": "q10",
+      "text": "Which reading correction is applied if a vernier caliper shows a non-zero reading when closed?",
+      "type": "multiple_choice",
+      "options": [
+        "Temperature correction",
+        "Zero error correction",
+        "Backlash correction",
+        "Parallax correction"
+      ],
+      "correct_answer": "Zero error correction",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "If the jaws read non-zero when closed, apply zero error correction to the measurement, adding or subtracting the known zero offset."
+    },
+    {
+      "id": "q11",
+      "text": "In a standard micrometer, least count is computed as:",
+      "type": "multiple_choice",
+      "options": [
+        "Pitch × number of divisions",
+        "Pitch ÷ number of divisions",
+        "Number of divisions ÷ pitch",
+        "Pitch − number of divisions"
+      ],
+      "correct_answer": "Pitch ÷ number of divisions",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometer least count = pitch of screw / total circular-scale divisions, e.g., 0.5 mm/50 = 0.01 mm."
+    },
+    {
+      "id": "q12",
+      "text": "Which instrument commonly provides higher precision for thickness measurement?",
+      "type": "multiple_choice",
+      "options": [
+        "Ruler",
+        "Vernier caliper",
+        "Micrometer screw gauge",
+        "Measuring tape"
+      ],
+      "correct_answer": "Micrometer screw gauge",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometers typically resolve to 0.01 mm, finer than many calipers (e.g., 0.02–0.1 mm), hence better precision for thickness."
+    },
+    {
+      "id": "q13",
+      "text": "A vernier caliper with 50 vernier divisions over 49 mm has least count:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.02 mm",
+        "0.5 mm",
+        "0.01 mm"
+      ],
+      "correct_answer": "0.02 mm",
+      "points": 3,
+      "category": "Instrument-based",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Least count = 1 MSD − 1 VSD = 1 mm − (49/50) mm = 1/50 mm = 0.02 mm, a common engraved readability."
+    },
+    {
+      "id": "q14",
+      "text": "Which step is essential in water displacement volume measurement?",
+      "type": "multiple_choice",
+      "options": [
+        "Keeping the object partially submerged",
+        "Reading only the final volume",
+        "Subtracting initial from final volume",
+        "Weighing the object first"
+      ],
+      "correct_answer": "Subtracting initial from final volume",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The object’s volume equals the final liquid volume minus the initial volume after complete submersion."
+    },
+    {
+      "id": "q15",
+      "text": "Vernier calipers are suitable for measuring:",
+      "type": "multiple_choice",
+      "options": [
+        "Earth–Moon distance",
+        "Wire diameter and external/internal dimensions",
+        "Mass of small samples",
+        "Electric current"
+      ],
+      "correct_answer": "Wire diameter and external/internal dimensions",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Vernier calipers can measure external, internal, and depth dimensions, commonly including small diameters like wires."
+    },
+    {
+      "id": "q16",
+      "text": "Which statement about least count is correct?",
+      "type": "multiple_choice",
+      "options": [
+        "It is the largest measurement possible",
+        "It is the smallest distinguishable measurement",
+        "It equals 1 MSD always",
+        "It is independent of scale divisions"
+      ],
+      "correct_answer": "It is the smallest distinguishable measurement",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Least count defines the minimum incremental reading an instrument can reliably resolve from its scales."
+    },
+    {
+      "id": "q17",
+      "text": "A micrometer with pitch 0.5 mm and 50 divisions will have:",
+      "type": "multiple_choice",
+      "options": [
+        "Least count 0.5 mm",
+        "Least count 0.01 mm",
+        "Least count 0.05 mm",
+        "Least count 0.1 mm"
+      ],
+      "correct_answer": "Least count 0.01 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LC = pitch/divisions = 0.5 mm/50 = 0.01 mm, typical of metric micrometers."
+    },
+    {
+      "id": "q18",
+      "text": "To minimize parallax error when reading scales, observe the scale:",
+      "type": "multiple_choice",
+      "options": [
+        "At an oblique angle",
+        "From above the scale",
+        "With eye perpendicular to the scale",
+        "From any convenient angle"
+      ],
+      "correct_answer": "With eye perpendicular to the scale",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Perpendicular viewing aligns eye with the scale to avoid apparent shifts in the reading due to parallax, a standard practice in displacement and caliper readings."
+    },
+    {
+      "id": "q19",
+      "text": "Which reading method best describes volume by displacement?",
+      "type": "multiple_choice",
+      "options": [
+        "Indirect—uses derived formula only",
+        "Direct—difference of two direct readings",
+        "Direct—single reading only",
+        "Estimation—no readings needed"
+      ],
+      "correct_answer": "Direct—difference of two direct readings",
+      "points": 3,
+      "category": "Measurement Principle",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The method takes two direct volume readings (initial and final) and subtracts them to directly obtain the object’s volume."
+    },
+    {
+      "id": "q20",
+      "text": "A caliper engraved with “0.02 mm” indicates:",
+      "type": "multiple_choice",
+      "options": [
+        "Maximum range",
+        "Least count/readability",
+        "Jaw length",
+        "Zero error"
+      ],
+      "correct_answer": "Least count/readability",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Such engraving denotes the least count (vernier constant), e.g., 0.02 mm per vernier division alignment."
+    },
+    {
+      "id": "q21",
+      "text": "Which combination correctly pairs instrument and typical least count?",
+      "type": "multiple_choice",
+      "options": [
+        "Vernier caliper — 1 mm",
+        "Micrometer — 0.01 mm",
+        "Micrometer — 1 mm",
+        "Vernier caliper — 10 mm"
+      ],
+      "correct_answer": "Micrometer — 0.01 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Standard micrometers commonly resolve 0.01 mm, superior to typical caliper least counts like 0.02 or 0.1 mm."
+    },
+    {
+      "id": "q22",
+      "text": "Which operation is the principle behind measuring irregular volume via displacement?",
+      "type": "multiple_choice",
+      "options": [
+        "Applying Hooke’s law",
+        "Using Archimedes’ principle",
+        "Using Bernoulli’s equation",
+        "Applying Coulomb’s law"
+      ],
+      "correct_answer": "Using Archimedes’ principle",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Displacement is based on Archimedes’ principle: the volume displaced equals the volume of the immersed object."
+    },
+    {
+      "id": "q23",
+      "text": "In a vernier caliper with 10 vernier divisions equal to 9 mm on main scale, least count is:",
+      "type": "multiple_choice",
+      "options": [
+        "1 mm",
+        "0.1 mm",
+        "0.9 mm",
+        "0.01 mm"
+      ],
+      "correct_answer": "0.1 mm",
+      "points": 3,
+      "category": "Instrument-based",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LC = 1 MSD − 1 VSD = 1 mm − 0.9 mm = 0.1 mm, a common educational caliper configuration."
+    },
+    {
+      "id": "q24",
+      "text": "For a micrometer with pitch 1.0 mm and 100 divisions, least count equals:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 mm",
+        "0.02 mm",
+        "0.01 mm",
+        "0.5 mm"
+      ],
+      "correct_answer": "0.01 mm",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LC = pitch/divisions = 1.0 mm/100 = 0.01 mm, same as standard 0.5/50 configuration."
+    },
+    {
+      "id": "q25",
+      "text": "Which is most appropriate to measure the inner diameter of a small tube?",
+      "type": "multiple_choice",
+      "options": [
+        "Ruler",
+        "Vernier caliper (inside jaws)",
+        "Spring balance",
+        "Stopwatch"
+      ],
+      "correct_answer": "Vernier caliper (inside jaws)",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Vernier calipers include inside jaws designed for internal dimensions like inner diameters."
+    },
+    {
+      "id": "q26",
+      "text": "Which source explicitly describes 0.02 mm as a common vernier caliper readability?",
+      "type": "multiple_choice",
+      "options": [
+        "Archimedes’ treatise",
+        "An article on reading calipers",
+        "A generic ruler manual",
+        "An ohmmeter datasheet"
+      ],
+      "correct_answer": "An article on reading calipers",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Guides on reading calipers commonly note 0.02 mm least count/readability with 50 vernier divisions."
+    },
+    {
+      "id": "q27",
+      "text": "In displacement method, the object must be:",
+      "type": "multiple_choice",
+      "options": [
+        "Floating partially",
+        "Completely submerged without trapping air",
+        "Attached to the cylinder walls",
+        "Heated before immersion"
+      ],
+      "correct_answer": "Completely submerged without trapping air",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Accurate displacement requires full submersion and avoiding air bubbles to ensure the volume displaced equals object volume."
+    },
+    {
+      "id": "q28",
+      "text": "Which calibration detail is typically etched on a quality vernier caliper?",
+      "type": "multiple_choice",
+      "options": [
+        "Pitch of screw",
+        "Least count (e.g., 0.02 mm)",
+        "Density of water",
+        "Specific heat of metal"
+      ],
+      "correct_answer": "Least count (e.g., 0.02 mm)",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Manufacturers often etch the least count/readability on the vernier scale, such as 0.02 mm."
+    },
+    {
+      "id": "q29",
+      "text": "Which instrument uses a screw and circular scale to magnify small displacements for measurement?",
+      "type": "multiple_choice",
+      "options": [
+        "Vernier caliper",
+        "Micrometer screw gauge",
+        "Hydrometer",
+        "Barometer"
+      ],
+      "correct_answer": "Micrometer screw gauge",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometers use a precision screw and thimble scale; pitch and divisions determine least count (e.g., 0.01 mm)."
+    },
+    {
+      "id": "q30",
+      "text": "Which BEST describes the calculation of density after displacement measurement?",
+      "type": "multiple_choice",
+      "options": [
+        "Density = mass × (final − initial volume)",
+        "Density = (final − initial volume)/mass",
+        "Density = mass/(final − initial volume)",
+        "Density = mass × volume"
+      ],
+      "correct_answer": "Density = mass/(final − initial volume)",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "After obtaining object volume by displacement, density is computed as mass divided by displaced volume."
+    },
+    {
+      "id": "q31",
+      "text": "A caliper with 10 vernier divisions equal to 9 main-scale divisions has VSD equal to:",
+      "type": "multiple_choice",
+      "options": [
+        "1.0 mm",
+        "0.9 mm",
+        "0.1 mm",
+        "0.02 mm"
+      ],
+      "correct_answer": "0.9 mm",
+      "points": 3,
+      "category": "Measurement Principle",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "If 10 VSD align with 9 mm, then 1 VSD = 0.9 mm, leading to a least count of 1 − 0.9 = 0.1 mm."
+    },
+    {
+      "id": "q32",
+      "text": "Which instrument is most suitable for measuring the diameter of a thin wire with maximum precision?",
+      "type": "multiple_choice",
+      "options": [
+        "Meter rule",
+        "Vernier caliper",
+        "Micrometer screw gauge",
+        "Protractor"
+      ],
+      "correct_answer": "Micrometer screw gauge",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The micrometer’s finer least count (commonly 0.01 mm) makes it ideal for thin wire diameter measurements."
+    },
+    {
+      "id": "q33",
+      "text": "Water displacement cannot directly measure volume accurately if the object:",
+      "type": "multiple_choice",
+      "options": [
+        "Is irregular",
+        "Sinks completely",
+        "Absorbs water or traps air",
+        "Is denser than water"
+      ],
+      "correct_answer": "Absorbs water or traps air",
+      "points": 3,
+      "category": "Measurement Principle",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Accuracy requires incompressible fluid and non-absorbing, fully submerged objects without trapped air bubbles."
+    },
+    {
+      "id": "q34",
+      "text": "Which reading practice is recommended when using displacement with a graduated cylinder?",
+      "type": "multiple_choice",
+      "options": [
+        "Read meniscus from above",
+        "Ignore initial reading",
+        "Read at eye level at the meniscus",
+        "Shake cylinder to mix"
+      ],
+      "correct_answer": "Read at eye level at the meniscus",
+      "points": 2,
+      "category": "Measurement Principle",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Accurate volume readings require eye-level observation at the meniscus; then subtract initial from final volume."
+    },
+    {
+      "id": "q35",
+      "text": "Which pair is correctly matched: instrument — typical measurement use?",
+      "type": "multiple_choice",
+      "options": [
+        "Micrometer — inner diameter of large pipe",
+        "Vernier caliper — thickness of small sheet",
+        "Measuring tape — screw thread pitch",
+        "Micrometer — small thickness/diameter"
+      ],
+      "correct_answer": "Micrometer — small thickness/diameter",
+      "points": 2,
+      "category": "Instrument-based",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micrometers are specifically designed for precise small thickness/diameter measurements such as sheets and wires."
+    }
+  ],
+  "scoring": {
+    "total_points": 85,
+    "passing_score": 68,
+    "grade_scale": {
+      "A": "76-85",
+      "B": "68-75",
+      "C": "59-67",
+      "D": "50-58",
+      "F": "0-49"
+    }
+  },
+  "instructions": {
+    "time_management": "Average 51 seconds per question",
+    "difficulty_distribution": {
+      "easy": "25 questions (72%)",
+      "medium": "10 questions (28%)"
+    },
+    "category_distribution": {
+      "Instrument-based": "23 questions",
+      "Measurement Principle": "12 questions"
+    }
+  }
+}

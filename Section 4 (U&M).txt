@@ -1,0 +1,965 @@
+{
+  "section": "Section 4: Dimensional Analysis - MCQ Breakdown",
+  "total_questions": 55,
+  "time_limit": 60,
+  "target_score": "80%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Dimensional formula of force is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻²]",
+        "[MLT⁻¹]",
+        "[ML⁻¹T⁻²]",
+        "[M⁻¹LT⁻²]"
+      ],
+      "correct_answer": "[MLT⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Force = mass × acceleration = M × LT⁻² = [MLT⁻²]."
+    },
+    {
+      "id": "q2",
+      "text": "The dimensions of velocity are:",
+      "type": "multiple_choice",
+      "options": [
+        "[LT⁻¹]",
+        "[LT⁻²]",
+        "[L²T⁻¹]",
+        "[LT]"
+      ],
+      "correct_answer": "[LT⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Velocity = displacement/time = L/T = [LT⁻¹]."
+    },
+    {
+      "id": "q3",
+      "text": "Dimensional formula for energy is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻²]",
+        "[MLT⁻²]",
+        "[ML²T⁻¹]",
+        "[M²LT⁻²]"
+      ],
+      "correct_answer": "[ML²T⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Energy = work = force × distance = [MLT⁻²] × [L] = [ML²T⁻²]."
+    },
+    {
+      "id": "q4",
+      "text": "The dimensions of pressure are:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻¹T⁻²]",
+        "[MLT⁻²]",
+        "[ML⁻²T⁻²]",
+        "[M⁻¹LT⁻²]"
+      ],
+      "correct_answer": "[ML⁻¹T⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Pressure = force/area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²]."
+    },
+    {
+      "id": "q5",
+      "text": "The equation v = u + at is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Partially correct",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Correct",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "All terms have dimension [LT⁻¹]: v=[LT⁻¹], u=[LT⁻¹], at=[LT⁻²][T]=[LT⁻¹]. Hence dimensionally consistent."
+    },
+    {
+      "id": "q6",
+      "text": "For s = ut + ½at², the dimensional consistency is:",
+      "type": "multiple_choice",
+      "options": [
+        "Valid",
+        "Invalid",
+        "Depends on values",
+        "Not applicable"
+      ],
+      "correct_answer": "Valid",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "All terms have dimension [L]: s=[L], ut=[LT⁻¹][T]=[L], at²=[LT⁻²][T²]=[L]. Hence dimensionally valid."
+    },
+    {
+      "id": "q7",
+      "text": "Dimensional formula of acceleration is:",
+      "type": "multiple_choice",
+      "options": [
+        "[LT⁻¹]",
+        "[LT⁻²]",
+        "[L²T⁻²]",
+        "[MLT⁻²]"
+      ],
+      "correct_answer": "[LT⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Acceleration = velocity/time = [LT⁻¹]/[T] = [LT⁻²]."
+    },
+    {
+      "id": "q8",
+      "text": "Dimensional formula of power is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻²]",
+        "[ML²T⁻³]",
+        "[MLT⁻²]",
+        "[ML²T⁻¹]"
+      ],
+      "correct_answer": "[ML²T⁻³]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Power = work/time = [ML²T⁻²]/[T] = [ML²T⁻³]."
+    },
+    {
+      "id": "q9",
+      "text": "Dimensional formula of momentum is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻¹]",
+        "[MLT⁻²]",
+        "[ML²T⁻¹]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[MLT⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Momentum = mass × velocity = [M] × [LT⁻¹] = [MLT⁻¹]."
+    },
+    {
+      "id": "q10",
+      "text": "Dimensional formula of density is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻³]",
+        "[ML⁻²]",
+        "[ML⁻¹]",
+        "[M⁻¹L³]"
+      ],
+      "correct_answer": "[ML⁻³]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Density = mass/volume = [M]/[L³] = [ML⁻³]."
+    },
+    {
+      "id": "q11",
+      "text": "The equation F = ma is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Partially correct",
+        "Only for specific units"
+      ],
+      "correct_answer": "Correct",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: F = [MLT⁻²]; RHS: ma = [M][LT⁻²] = [MLT⁻²]. Both sides have same dimensions."
+    },
+    {
+      "id": "q12",
+      "text": "Dimensional formula of frequency is:",
+      "type": "multiple_choice",
+      "options": [
+        "[T⁻¹]",
+        "[T]",
+        "[LT⁻¹]",
+        "[M⁰L⁰T⁰]"
+      ],
+      "correct_answer": "[T⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Frequency = 1/time period = 1/[T] = [T⁻¹]."
+    },
+    {
+      "id": "q13",
+      "text": "Dimensional formula of area is:",
+      "type": "multiple_choice",
+      "options": [
+        "[L]",
+        "[L²]",
+        "[L³]",
+        "[ML²]"
+      ],
+      "correct_answer": "[L²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Area = length × breadth = [L] × [L] = [L²]."
+    },
+    {
+      "id": "q14",
+      "text": "The equation v² = u² + 2as has dimensional consistency:",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No",
+        "Only for positive values",
+        "Depends on the system"
+      ],
+      "correct_answer": "Yes",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "All terms have dimension [L²T⁻²]: v²=[L²T⁻²], u²=[L²T⁻²], 2as=[LT⁻²][L]=[L²T⁻²]."
+    },
+    {
+      "id": "q15",
+      "text": "Dimensional formula of electric charge is:",
+      "type": "multiple_choice",
+      "options": [
+        "[IT]",
+        "[I/T]",
+        "[I²T]",
+        "[IT²]"
+      ],
+      "correct_answer": "[IT]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Electric charge = current × time = [I] × [T] = [IT]."
+    },
+    {
+      "id": "q16",
+      "text": "Dimensional formula of voltage is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻³I⁻¹]",
+        "[ML²T⁻²I⁻¹]",
+        "[MLT⁻³I⁻¹]",
+        "[ML³T⁻³I⁻¹]"
+      ],
+      "correct_answer": "[ML²T⁻³I⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Voltage = work/charge = [ML²T⁻²]/[IT] = [ML²T⁻³I⁻¹]."
+    },
+    {
+      "id": "q17",
+      "text": "Dimensional formula of resistance is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻³I⁻²]",
+        "[ML²T⁻²I⁻²]",
+        "[MLT⁻³I⁻²]",
+        "[ML³T⁻³I⁻²]"
+      ],
+      "correct_answer": "[ML²T⁻³I⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Resistance = voltage/current = [ML²T⁻³I⁻¹]/[I] = [ML²T⁻³I⁻²]."
+    },
+    {
+      "id": "q18",
+      "text": "The equation P = I²R is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Partially correct",
+        "Cannot be verified"
+      ],
+      "correct_answer": "Correct",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: P = [ML²T⁻³]; RHS: I²R = [I²][ML²T⁻³I⁻²] = [ML²T⁻³]. Both sides match."
+    },
+    {
+      "id": "q19",
+      "text": "Dimensional formula of angular velocity is:",
+      "type": "multiple_choice",
+      "options": [
+        "[T⁻¹]",
+        "[LT⁻¹]",
+        "[T]",
+        "[L⁻¹T⁻¹]"
+      ],
+      "correct_answer": "[T⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Angular velocity = angle/time = [dimensionless]/[T] = [T⁻¹]."
+    },
+    {
+      "id": "q20",
+      "text": "Dimensional formula of work is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻²]",
+        "[MLT⁻²]",
+        "[ML²T⁻¹]",
+        "[ML²T⁻³]"
+      ],
+      "correct_answer": "[ML²T⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Work = force × displacement = [MLT⁻²] × [L] = [ML²T⁻²]."
+    },
+    {
+      "id": "q21",
+      "text": "The equation E = mc² has dimensional consistency:",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No",
+        "Only in special relativity",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Yes",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: E = [ML²T⁻²]; RHS: mc² = [M][LT⁻¹]² = [ML²T⁻²]. Both sides match."
+    },
+    {
+      "id": "q22",
+      "text": "Dimensional formula of stress is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻¹T⁻²]",
+        "[MLT⁻²]",
+        "[ML⁻²T⁻²]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[ML⁻¹T⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Stress = force/area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²]."
+    },
+    {
+      "id": "q23",
+      "text": "Dimensional formula of impulse is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻¹]",
+        "[MLT⁻²]",
+        "[ML²T⁻¹]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[MLT⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Impulse = force × time = [MLT⁻²] × [T] = [MLT⁻¹]."
+    },
+    {
+      "id": "q24",
+      "text": "The equation KE = ½mv² is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Partially correct",
+        "Unit dependent"
+      ],
+      "correct_answer": "Correct",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: KE = [ML²T⁻²]; RHS: mv² = [M][LT⁻¹]² = [ML²T⁻²]. Dimensionally consistent."
+    },
+    {
+      "id": "q25",
+      "text": "Dimensional formula of surface tension is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MT⁻²]",
+        "[ML⁻¹T⁻²]",
+        "[MLT⁻²]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[MT⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Surface tension = force/length = [MLT⁻²]/[L] = [MT⁻²]."
+    },
+    {
+      "id": "q26",
+      "text": "Dimensional formula of capacitance is:",
+      "type": "multiple_choice",
+      "options": [
+        "[M⁻¹L⁻²T⁴I²]",
+        "[ML²T⁻⁴I⁻²]",
+        "[M⁻¹L⁻³T⁴I²]",
+        "[ML⁻²T⁻⁴I²]"
+      ],
+      "correct_answer": "[M⁻¹L⁻²T⁴I²]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Capacitance = charge/voltage = [IT]/[ML²T⁻³I⁻¹] = [M⁻¹L⁻²T⁴I²]."
+    },
+    {
+      "id": "q27",
+      "text": "The equation P = F·v is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Valid only for constant force",
+        "Cannot be checked"
+      ],
+      "correct_answer": "Correct",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: P = [ML²T⁻³]; RHS: F·v = [MLT⁻²][LT⁻¹] = [ML²T⁻³]. Dimensionally correct."
+    },
+    {
+      "id": "q28",
+      "text": "Dimensional formula of magnetic field is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MT⁻²I⁻¹]",
+        "[MLT⁻²I⁻¹]",
+        "[ML²T⁻²I⁻¹]",
+        "[M⁻¹LT⁻²I]"
+      ],
+      "correct_answer": "[MT⁻²I⁻¹]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Magnetic field B = F/(IL) = [MLT⁻²]/([I][L]) = [MT⁻²I⁻¹]."
+    },
+    {
+      "id": "q29",
+      "text": "Dimensional formula of gravitational constant G is:",
+      "type": "multiple_choice",
+      "options": [
+        "[M⁻¹L³T⁻²]",
+        "[ML³T⁻²]",
+        "[M⁻²L³T⁻²]",
+        "[ML⁻³T⁻²]"
+      ],
+      "correct_answer": "[M⁻¹L³T⁻²]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "From F = Gm₁m₂/r², G = Fr²/(m₁m₂) = [MLT⁻²][L²]/[M²] = [M⁻¹L³T⁻²]."
+    },
+    {
+      "id": "q30",
+      "text": "The equation τ = Iα is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Valid only for rigid bodies",
+        "Depends on the axis"
+      ],
+      "correct_answer": "Correct",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: τ = [ML²T⁻²]; RHS: Iα = [ML²][T⁻²] = [ML²T⁻²]. Dimensionally consistent."
+    },
+    {
+      "id": "q31",
+      "text": "Dimensional formula of elastic modulus is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻¹T⁻²]",
+        "[MLT⁻²]",
+        "[ML⁻²T⁻²]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[ML⁻¹T⁻²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Elastic modulus = stress/strain = [ML⁻¹T⁻²]/[dimensionless] = [ML⁻¹T⁻²]."
+    },
+    {
+      "id": "q32",
+      "text": "Dimensional formula of viscosity coefficient is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻¹T⁻¹]",
+        "[MLT⁻¹]",
+        "[ML⁻²T⁻¹]",
+        "[ML²T⁻¹]"
+      ],
+      "correct_answer": "[ML⁻¹T⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Viscosity = (force/area)/(velocity gradient) = [ML⁻¹T⁻²]/[T⁻¹] = [ML⁻¹T⁻¹]."
+    },
+    {
+      "id": "q33",
+      "text": "The equation h = ut + ½gt² is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Consistent",
+        "Inconsistent",
+        "Depends on direction",
+        "Only for free fall"
+      ],
+      "correct_answer": "Consistent",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "All terms have dimension [L]: h=[L], ut=[LT⁻¹][T]=[L], gt²=[LT⁻²][T²]=[L]."
+    },
+    {
+      "id": "q34",
+      "text": "Dimensional formula of thermal conductivity is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻³K⁻¹]",
+        "[ML²T⁻³K⁻¹]",
+        "[ML⁻¹T⁻³K⁻¹]",
+        "[MLT⁻²K⁻¹]"
+      ],
+      "correct_answer": "[MLT⁻³K⁻¹]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Thermal conductivity k from q = -kA(dT/dx) gives k = [ML²T⁻³]/([L²][KL⁻¹]) = [MLT⁻³K⁻¹]."
+    },
+    {
+      "id": "q35",
+      "text": "Dimensional formula of moment of inertia is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²]",
+        "[ML]",
+        "[ML³]",
+        "[M²L²]"
+      ],
+      "correct_answer": "[ML²]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Moment of inertia I = Σmr² = [M][L²] = [ML²]."
+    },
+    {
+      "id": "q36",
+      "text": "The equation V = IR has dimensional consistency:",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No",
+        "Only for DC circuits",
+        "Depends on temperature"
+      ],
+      "correct_answer": "Yes",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: V = [ML²T⁻³I⁻¹]; RHS: IR = [I][ML²T⁻³I⁻²] = [ML²T⁻³I⁻¹]. Consistent."
+    },
+    {
+      "id": "q37",
+      "text": "Dimensional formula of wavelength is:",
+      "type": "multiple_choice",
+      "options": [
+        "[L]",
+        "[T]",
+        "[LT⁻¹]",
+        "[T⁻¹]"
+      ],
+      "correct_answer": "[L]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Wavelength is a length measurement, so its dimension is [L]."
+    },
+    {
+      "id": "q38",
+      "text": "Dimensional formula of Planck's constant is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻¹]",
+        "[ML²T⁻²]",
+        "[MLT⁻¹]",
+        "[ML²T⁻³]"
+      ],
+      "correct_answer": "[ML²T⁻¹]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Planck's constant h = energy/frequency = [ML²T⁻²]/[T⁻¹] = [ML²T⁻¹]."
+    },
+    {
+      "id": "q39",
+      "text": "The equation E = hν is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Only for photons",
+        "Depends on wavelength"
+      ],
+      "correct_answer": "Correct",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: E = [ML²T⁻²]; RHS: hν = [ML²T⁻¹][T⁻¹] = [ML²T⁻²]. Dimensionally correct."
+    },
+    {
+      "id": "q40",
+      "text": "Dimensional formula of specific heat is:",
+      "type": "multiple_choice",
+      "options": [
+        "[L²T⁻²K⁻¹]",
+        "[ML²T⁻²K⁻¹]",
+        "[LT⁻²K⁻¹]",
+        "[M⁻¹L²T⁻²K⁻¹]"
+      ],
+      "correct_answer": "[L²T⁻²K⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Specific heat = heat per unit mass per unit temperature = [ML²T⁻²]/([M][K]) = [L²T⁻²K⁻¹]."
+    },
+    {
+      "id": "q41",
+      "text": "The dimensional formula [ML⁻³] represents:",
+      "type": "multiple_choice",
+      "options": [
+        "Density",
+        "Pressure",
+        "Force",
+        "Energy"
+      ],
+      "correct_answer": "Density",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Density = mass/volume = [M]/[L³] = [ML⁻³]."
+    },
+    {
+      "id": "q42",
+      "text": "Which equation is dimensionally incorrect?",
+      "type": "multiple_choice",
+      "options": [
+        "v = u + at",
+        "s = ut + ½at²",
+        "v² = u² + 2as",
+        "s = vt + ½at"
+      ],
+      "correct_answer": "s = vt + ½at",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "In s = vt + ½at: first term [L], second term [LT⁻²][T] = [LT⁻¹] ≠ [L]. Dimensionally inconsistent."
+    },
+    {
+      "id": "q43",
+      "text": "Dimensional formula of angular momentum is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻¹]",
+        "[MLT⁻¹]",
+        "[ML²T⁻²]",
+        "[MLT⁻²]"
+      ],
+      "correct_answer": "[ML²T⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Angular momentum L = mvr = [M][LT⁻¹][L] = [ML²T⁻¹]."
+    },
+    {
+      "id": "q44",
+      "text": "The equation ω = 2πf has dimensional consistency:",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No",
+        "Only for circular motion",
+        "Depends on radius"
+      ],
+      "correct_answer": "Yes",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: ω = [T⁻¹]; RHS: 2πf = [dimensionless][T⁻¹] = [T⁻¹]. Dimensionally consistent."
+    },
+    {
+      "id": "q45",
+      "text": "Dimensional formula of electric field is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻³I⁻¹]",
+        "[ML²T⁻³I⁻¹]",
+        "[MLT⁻²I⁻¹]",
+        "[ML⁻¹T⁻³I⁻¹]"
+      ],
+      "correct_answer": "[MLT⁻³I⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Electric field E = F/q = [MLT⁻²]/[IT] = [MLT⁻³I⁻¹]."
+    },
+    {
+      "id": "q46",
+      "text": "Which physical quantity has dimensions [ML⁻¹T⁻²]?",
+      "type": "multiple_choice",
+      "options": [
+        "Force",
+        "Pressure",
+        "Energy",
+        "Power"
+      ],
+      "correct_answer": "Pressure",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Pressure = force/area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²]."
+    },
+    {
+      "id": "q47",
+      "text": "The equation F = Bqv sin θ is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Valid only for perpendicular fields",
+        "Depends on angle"
+      ],
+      "correct_answer": "Correct",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: F=[MLT⁻²]; RHS: Bqv=[MT⁻²I⁻¹][IT][LT⁻¹]=[MLT⁻²]. sin θ is dimensionless."
+    },
+    {
+      "id": "q48",
+      "text": "Dimensional formula of magnetic flux is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻²I⁻¹]",
+        "[MLT⁻²I⁻¹]",
+        "[ML²T⁻¹I⁻¹]",
+        "[ML²T⁻³I⁻¹]"
+      ],
+      "correct_answer": "[ML²T⁻²I⁻¹]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Magnetic flux Φ = BA = [MT⁻²I⁻¹][L²] = [ML²T⁻²I⁻¹]."
+    },
+    {
+      "id": "q49",
+      "text": "Which equation shows correct dimensional relationship?",
+      "type": "multiple_choice",
+      "options": [
+        "Energy = Force × Time",
+        "Power = Energy × Time",
+        "Work = Force × Distance",
+        "Momentum = Force × Distance"
+      ],
+      "correct_answer": "Work = Force × Distance",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Work = Force × Distance: [ML²T⁻²] = [MLT⁻²] × [L] = [ML²T⁻²]. Dimensionally correct."
+    },
+    {
+      "id": "q50",
+      "text": "Dimensional formula of strain is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML⁻¹T⁻²]",
+        "[M⁰L⁰T⁰]",
+        "[LT⁻¹]",
+        "[T⁻¹]"
+      ],
+      "correct_answer": "[M⁰L⁰T⁰]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Strain = change in dimension/original dimension = [L]/[L] = dimensionless = [M⁰L⁰T⁰]."
+    },
+    {
+      "id": "q51",
+      "text": "The equation a = v²/r is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Consistent",
+        "Inconsistent",
+        "Valid only for circular motion",
+        "Depends on speed"
+      ],
+      "correct_answer": "Consistent",
+      "points": 2,
+      "category": "Dimensional Consistency",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "LHS: a = [LT⁻²]; RHS: v²/r = [L²T⁻²]/[L] = [LT⁻²]. Dimensionally consistent."
+    },
+    {
+      "id": "q52",
+      "text": "Dimensional formula of permittivity is:",
+      "type": "multiple_choice",
+      "options": [
+        "[M⁻¹L⁻³T⁴I²]",
+        "[ML³T⁻⁴I⁻²]",
+        "[M⁻¹L⁻²T⁴I²]",
+        "[ML⁻³T⁴I²]"
+      ],
+      "correct_answer": "[M⁻¹L⁻³T⁴I²]",
+      "points": 3,
+      "category": "Dimensional Formula",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "From F = q₁q₂/(4πε₀r²), ε₀ = [IT]²/([MLT⁻²][L²]) = [M⁻¹L⁻³T⁴I²]."
+    },
+    {
+      "id": "q53",
+      "text": "Which quantity is dimensionless?",
+      "type": "multiple_choice",
+      "options": [
+        "Refractive index",
+        "Velocity",
+        "Acceleration",
+        "Force"
+      ],
+      "correct_answer": "Refractive index",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Refractive index = speed of light in vacuum/speed of light in medium = [LT⁻¹]/[LT⁻¹] = dimensionless."
+    },
+    {
+      "id": "q54",
+      "text": "The equation T = 2π√(l/g) is dimensionally:",
+      "type": "multiple_choice",
+      "options": [
+        "Correct",
+        "Incorrect",
+        "Valid only for small angles",
+        "Depends on amplitude"
+      ],
+      "correct_answer": "Correct",
+      "points": 3,
+      "category": "Dimensional Consistency",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "LHS: T = [T]; RHS: 2π√(l/g) = [dimensionless]√([L]/[LT⁻²]) = √[T²] = [T]. Consistent."
+    },
+    {
+      "id": "q55",
+      "text": "Dimensional formula of coefficient of restitution is:",
+      "type": "multiple_choice",
+      "options": [
+        "[M⁰L⁰T⁰]",
+        "[LT⁻¹]",
+        "[T⁻¹]",
+        "[L⁻¹T]"
+      ],
+      "correct_answer": "[M⁰L⁰T⁰]",
+      "points": 2,
+      "category": "Dimensional Formula",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Coefficient of restitution = relative velocity after collision/relative velocity before collision = [LT⁻¹]/[LT⁻¹] = dimensionless."
+    }
+  ],
+  "scoring": {
+    "total_points": 130,
+    "passing_score": 104,
+    "grade_scale": {
+      "A": "117-130",
+      "B": "104-116",
+      "C": "91-103",
+      "D": "78-90",
+      "F": "0-77"
+    }
+  },
+  "instructions": {
+    "time_management": "Average 65 seconds per question",
+    "difficulty_distribution": {
+      "easy": "40 questions (72%)",
+      "medium": "15 questions (28%)"
+    },
+    "category_distribution": {
+      "Dimensional Formula": "35 questions",
+      "Dimensional Consistency": "20 questions"
+    }
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "section": "Section 4: Units and Measurements - MCQ Breakdown",
+  "total_questions": 30,
+  "time_limit": 55,
+  "target_score": "80%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Farad per meter is the unit of:",
+      "type": "multiple_choice",
+      "options": [
+        "Permeability",
+        "Electric conductance",
+        "Permittivity",
+        "Watt per steradian"
+      ],
+      "correct_answer": "Permittivity",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Farad per meter is the unit of permittivity. Electric conductance is measured in Siemen (s), and Permeability is measured in Henry/meter.",
+      "pyq_year": "RRB ALP & Tech. 23.01.2019 Shift-I"
+    },
+    {
+      "id": "q2",
+      "text": "Henry per meter is the unit of:",
+      "type": "multiple_choice",
+      "options": [
+        "Permeability",
+        "Electric conductance",
+        "Watt per steradian",
+        "Permittivity"
+      ],
+      "correct_answer": "Permeability",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Henry per meter is the unit of permeability. This is a fundamental electromagnetic unit in the SI system.",
+      "pyq_year": "RRB ALP & Tech. 23.01.2019 Shift-II"
+    },
+    {
+      "id": "q3",
+      "text": "Heat supplied to a system is measured in:",
+      "type": "multiple_choice",
+      "options": [
+        "Joules",
+        "Amperes",
+        "Kilowatts",
+        "Degrees Kelvin"
+      ],
+      "correct_answer": "Joules",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Heat supplied to a system is measured in Joule or Calorie. 1 Calorie = 4.18 Joule.",
+      "pyq_year": "RRB ALP & Tech. 22.01.2019 Shift-I"
+    },
+    {
+      "id": "q4",
+      "text": "Which instrument is used for the measurement of heat?",
+      "type": "multiple_choice",
+      "options": [
+        "Energy meter",
+        "Calorimeter",
+        "Ammeter",
+        "Wattmeter"
+      ],
+      "correct_answer": "Calorimeter",
+      "points": 2,
+      "category": "Instruments",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Calorimeter is used to measure the thermal change. Ammeter measures current, Wattmeter measures power, Energy meter measures total power.",
+      "pyq_year": "RRB ALP & Tech. 21.01.2019 Shift-I"
+    },
+    {
+      "id": "q5",
+      "text": "When you convert one inch from British to SI unit, it becomes:",
+      "type": "multiple_choice",
+      "options": [
+        "25.4 cm",
+        "12 cm",
+        "2.54 cm",
+        "0.254 cm"
+      ],
+      "correct_answer": "2.54 cm",
+      "points": 2,
+      "category": "Unit Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "One inch from British to SI unit is equal to 2.54 cm. This is a standard conversion factor.",
+      "pyq_year": "RRB ALP & Tech. 21.01.2019 Shift-I"
+    },
+    {
+      "id": "q6",
+      "text": "The SI unit for electrical resistivity is:",
+      "type": "multiple_choice",
+      "options": [
+        "Tesla",
+        "Ohm meter",
+        "Ampere",
+        "Volt/meter"
+      ],
+      "correct_answer": "Ohm meter",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI unit of electrical resistivity is ohm meter. Electric field strength is Volt/meter, Magnetic field strength is Tesla or Ampere/meter.",
+      "pyq_year": "RRB ALP & Tech. 21.01.2019 Shift-I"
+    },
+    {
+      "id": "q7",
+      "text": "What is the S.I unit of potential difference?",
+      "type": "multiple_choice",
+      "options": [
+        "Coulomb",
+        "Tesla",
+        "Volt",
+        "Ampere"
+      ],
+      "correct_answer": "Volt",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI Unit: Electric charge - Coulomb, Electric field - Tesla, Potential difference - Volt, Electric current - Ampere.",
+      "pyq_year": "RRB ALP & Tech. 22.01.2019 Shift-III"
+    },
+    {
+      "id": "q8",
+      "text": "Generally, the capacity of a battery is expressed in:",
+      "type": "multiple_choice",
+      "options": [
+        "Tesla",
+        "Kilowatt hour",
+        "Ampere",
+        "Ampere hour"
+      ],
+      "correct_answer": "Ampere hour",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "An ampere hour is a unit in which capacity of battery can be expressed. 1 Ampere - hour is equal to 3600 Coulombs. It is a useful metric to determine the capacity of an energy storage device.",
+      "pyq_year": "RRB ALP & Tech. 22.01.2019 Shift-III"
+    },
+    {
+      "id": "q9",
+      "text": "Which of the following is NOT a derived unit?",
+      "type": "multiple_choice",
+      "options": [
+        "Mol",
+        "Volt",
+        "Radian",
+        "Lumen"
+      ],
+      "correct_answer": "Mol",
+      "points": 3,
+      "category": "Fundamental vs Derived",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Derived unit: Those units of physical quantities which are derived from units of fundamental quantities are called derived units. Mol is a fundamental unit.",
+      "pyq_year": "RRB ALP & Tech. 23.01.2019 Shift-II"
+    },
+    {
+      "id": "q10",
+      "text": "Which of the following is a base unit?",
+      "type": "multiple_choice",
+      "options": [
+        "Candela",
+        "Hertz",
+        "Radian",
+        "Ohm"
+      ],
+      "correct_answer": "Candela",
+      "points": 2,
+      "category": "Fundamental vs Derived",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Candela is base unit. Hence option (a) is correct.",
+      "pyq_year": "RRB ALP & Tech. 08.02.2019 Shift-I"
+    },
+    {
+      "id": "q11",
+      "text": "Katal is the unit of:",
+      "type": "multiple_choice",
+      "options": [
+        "Catalytic activity",
+        "Stress",
+        "Capacitance",
+        "Entropy"
+      ],
+      "correct_answer": "Catalytic activity",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Katal is the unit of catalytic activity. It is equivalent to 1 mole/second.",
+      "pyq_year": "RRB ALP & Tech. 08.02.2019 Shift-I"
+    },
+    {
+      "id": "q12",
+      "text": "Which of the following option does not have SI unit?",
+      "type": "multiple_choice",
+      "options": [
+        "Frequency",
+        "Amount of substance",
+        "Electric current",
+        "Luminous Intensity"
+      ],
+      "correct_answer": "Frequency",
+      "points": 3,
+      "category": "Units",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Frequency does not have SI base unit. The SI unit of frequency is hertz which is the reciprocal of time period.",
+      "pyq_year": "RRB ALP & Tech. 23.01.2019 Shift-III"
+    },
+    {
+      "id": "q13",
+      "text": "One mile is approximately equivalent to _____ kilometers.",
+      "type": "multiple_choice",
+      "options": [
+        "0.8",
+        "1.2",
+        "1.4",
+        "1.6"
+      ],
+      "correct_answer": "1.6",
+      "points": 2,
+      "category": "Unit Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1 mile = 1.69344 Kilometers. Hence, option (d) is correct.",
+      "pyq_year": "RRB ALP & Tech. 22.01.2019 Shift-I"
+    },
+    {
+      "id": "q14",
+      "text": "The SI unit of momentum is:",
+      "type": "multiple_choice",
+      "options": [
+        "Newton",
+        "Momentum",
+        "Kilogram-metre",
+        "Velocity"
+      ],
+      "correct_answer": "Kilogram-metre",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Momentum - It is the product of the mass and velocity of the object whose change against time gives force. p = m×v. Where, F = momentum, m = mass of object, v = velocity.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift I"
+    },
+    {
+      "id": "q15",
+      "text": "Which of the following has no unit?",
+      "type": "multiple_choice",
+      "options": [
+        "Density",
+        "Pressure",
+        "Distance",
+        "Relative Density"
+      ],
+      "correct_answer": "Relative Density",
+      "points": 2,
+      "category": "Dimensionless Quantities",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Relative density - It is defined as the ratio of density of a substance with respect to the density of water. It is dimensionless quantity denoted by R.D.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift I"
+    },
+    {
+      "id": "q16",
+      "text": "Which one of the following physical quantities is a vector quantity?",
+      "type": "multiple_choice",
+      "options": [
+        "Gravitational Potential energy",
+        "Electric Power",
+        "Electric current",
+        "Dipole Moment"
+      ],
+      "correct_answer": "Dipole Moment",
+      "points": 2,
+      "category": "Vector vs Scalar",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Dipole moment - The product of the charge and the distance between the two charges is called dipole moment. It is a vector quantity.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift I"
+    },
+    {
+      "id": "q17",
+      "text": "Which of the following is not a vector quantity?",
+      "type": "multiple_choice",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Displacement",
+        "Acceleration"
+      ],
+      "correct_answer": "Speed",
+      "points": 2,
+      "category": "Vector vs Scalar",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Vector Quantity - A physical quantity which has both magnitude and direction. Displacement, velocity, acceleration, momentum, force, weight are examples of vector quantity. Scalar quantity - A scalar quantity only has a magnitude. Some common examples of scalar quantity are mass, speed, volume, temperature, density etc.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift I"
+    },
+    {
+      "id": "q18",
+      "text": "The dimensional formula of speed is:",
+      "type": "multiple_choice",
+      "options": [
+        "[MLT⁻¹]",
+        "[ML²T⁻¹]",
+        "[LT⁻¹]",
+        "[ML²T⁻²]"
+      ],
+      "correct_answer": "[LT⁻¹]",
+      "points": 2,
+      "category": "Dimensional Analysis",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The dimensional formula of speed is [LT⁻¹]. Where, L = Length, T = Time.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift II"
+    },
+    {
+      "id": "q19",
+      "text": "Light year is the unit of:",
+      "type": "multiple_choice",
+      "options": [
+        "Length",
+        "Time",
+        "Energy",
+        "Speed"
+      ],
+      "correct_answer": "Length",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Light year is a unit of length. It is used to express Astronomical distances. 1 L.Y. = Speed of light × 1 year = 3×10⁸ × (365×24×3600) = 9.46×10¹⁵ km = 5.88 trillion miles (5.88×10¹² miles).",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 21.01.2019 Shift II"
+    },
+    {
+      "id": "q20",
+      "text": "The distance covered by light in one year is called:",
+      "type": "multiple_choice",
+      "options": [
+        "Meter",
+        "Kilometer",
+        "Light year",
+        "Angstrom"
+      ],
+      "correct_answer": "Light year",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The distance travelled by light in one year is called metric light year. It is the unit of astronomical distance.",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 22.01.2019 Shift II"
+    },
+    {
+      "id": "q21",
+      "text": "The distance covered by a particle in time T is given by s = at+bt² where 'a' and 'b' are constants. The dimensional formula of 'b' is:",
+      "type": "multiple_choice",
+      "options": [
+        "[ML²T⁻²]",
+        "[LT⁻²]",
+        "[LT⁻¹]",
+        "[M¹L¹T⁻²]"
+      ],
+      "correct_answer": "[LT⁻²]",
+      "points": 3,
+      "category": "Dimensional Analysis",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "Given: S = at+bt². From the principle of dimensional homogeneity, the L.H.S. of the equation must be dimensionally equal to the R.H.S. So, the dimension of (a), (at) and (bt²) is same. Dimension of distance (s) = [L]. The dimensional formula of b is [LT⁻²].",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 22.01.2019 Shift II"
+    },
+    {
+      "id": "q22",
+      "text": "S.I. Unit of universal gravitational constant is:",
+      "type": "multiple_choice",
+      "options": [
+        "Nkg⁻²m²",
+        "Nm²kg⁻²",
+        "Nm²kg⁻¹",
+        "Nkg⁻¹m²"
+      ],
+      "correct_answer": "Nm²kg⁻²",
+      "points": 2,
+      "category": "Units",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "G = F×r²/(m₁×m₂). Unit of universal law for gravitation, G = N×m²/kg² = Nm²kg⁻².",
+      "pyq_year": "RRB ALP CBT II Physics & Maths 22.01.2019 Shift II"
+    },
+    {
+      "id": "q23",
+      "text": "One nanometer is equal to centimeter (cm):",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻⁷ cm",
+        "10⁻⁵ cm",
+        "10⁻⁹ cm",
+        "10⁻⁶ cm"
+      ],
+      "correct_answer": "10⁻⁷ cm",
+      "points": 2,
+      "category": "Unit Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "One nanometer is equal to centimeter (cm) = 10⁻⁷ cm.",
+      "pyq_year": "Based on standard conversion factors"
+    },
+    {
+      "id": "q24",
+      "text": "The number of base unit in the S.I. system is:",
+      "type": "multiple_choice",
+      "options": [
+        "5 (five)",
+        "6 (six)",
+        "7 (seven)",
+        "8 (eight)"
+      ],
+      "correct_answer": "7 (seven)",
+      "points": 2,
+      "category": "Fundamental Units",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The number of base unit in the S.I. system is 7 (seven). These are: meter, kilogram, second, ampere, kelvin, mole, candela.",
+      "pyq_year": "Standard SI system knowledge"
+    },
+    {
+      "id": "q25",
+      "text": "One angstrom is equal to:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻⁸ meter",
+        "10⁻¹⁰ meter",
+        "10⁻⁹ meter",
+        "10⁻¹² meter"
+      ],
+      "correct_answer": "10⁻¹⁰ meter",
+      "points": 2,
+      "category": "Unit Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "One angstrom is equal to 10⁻¹⁰ meter. It is commonly used to measure atomic and molecular dimensions.",
+      "pyq_year": "Standard conversion knowledge"
+    },
+    {
+      "id": "q26",
+      "text": "The minimum reading marked on the scale is called:",
+      "type": "multiple_choice",
+      "options": [
+        "Range",
+        "Actual value",
+        "Least count",
+        "Error"
+      ],
+      "correct_answer": "Least count",
+      "points": 2,
+      "category": "Measurement",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "The minimum reading marked on the scale is called Actual value. Least count is the smallest measurement that can be made with an instrument.",
+      "pyq_year": "Based on measurement principles"
+    },
+    {
+      "id": "q27",
+      "text": "How many millimeters (mm) are in one micron:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻⁶ mm",
+        "10⁻³ mm",
+        "10⁻¹ mm",
+        "10³ mm"
+      ],
+      "correct_answer": "10⁻³ mm",
+      "points": 2,
+      "category": "Unit Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "How many millimeters (mm) are in one micron = 10⁻³ mm. Since 1 micron = 10⁻⁶ m and 1 mm = 10⁻³ m.",
+      "pyq_year": "Standard measurement knowledge"
+    },
+    {
+      "id": "q28",
+      "text": "If the errors in a measuring instrument are less than its accuracy, it will be affected:",
+      "type": "multiple_choice",
+      "options": [
+        "Accuracy will increase",
+        "Accuracy will decrease",
+        "No effect on accuracy",
+        "Accuracy becomes zero"
+      ],
+      "correct_answer": "No effect on accuracy",
+      "points": 3,
+      "category": "Measurement Accuracy",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "If the errors in a measuring instrument are less than its accuracy, it will not affect the accuracy. The accuracy of a measuring instrument is related to Accuracy ∝ 1/error.",
+      "pyq_year": "Based on measurement theory"
+    },
+    {
+      "id": "q29",
+      "text": "Electric current is measured by:",
+      "type": "multiple_choice",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Wattmeter",
+        "Galvanometer"
+      ],
+      "correct_answer": "Ammeter",
+      "points": 2,
+      "category": "Instruments",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Electric current is measured by Ammeter. The unit of current is ampere.",
+      "pyq_year": "Basic electrical measurement"
+    },
+    {
+      "id": "q30",
+      "text": "The time taken by the earth to revolve around the sun is of the order of:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁶ second",
+        "10⁷ second",
+        "10⁸ second",
+        "10⁹ second"
+      ],
+      "correct_answer": "10⁷ second",
+      "points": 2,
+      "category": "Order of Magnitude",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The time taken by the earth to revolve around the sun is of the order of 10⁷ second. One year ≈ 365 × 24 × 3600 ≈ 3.15 × 10⁷ seconds.",
+      "pyq_year": "Astronomical time calculations"
+    }
+  ],
+  "scoring": {
+    "total_points": 68,
+    "passing_score": 54,
+    "grade_scale": {
+      "A": "61-68",
+      "B": "54-60",
+      "C": "47-53",
+      "D": "40-46",
+      "F": "0-39"
+    }
+  },
+  "instructions": {
+    "time_management": "Average 1.8 minutes per question",
+    "difficulty_distribution": {
+      "easy": "20 questions (67%)",
+      "medium": "8 questions (27%)",
+      "hard": "2 questions (6%)"
+    },
+    "category_distribution": {
+      "Units": "12 questions",
+      "Unit Conversion": "6 questions",
+      "Dimensional Analysis": "3 questions",
+      "Instruments": "3 questions",
+      "Vector vs Scalar": "3 questions",
+      "Fundamental vs Derived": "2 questions",
+      "Measurement": "1 question"
+    },
+    "pyq_coverage": "Questions based on RRB ALP & Tech exams from 2019, covering multiple shifts and CBT II papers"
+  }
+}

@@ -1,0 +1,884 @@
+{
+  "section": "Section 1: Fundamental Units & SI System",
+  "total_questions": 50,
+  "time_limit": 45,
+  "target_score": "80%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How many fundamental quantities are there in the SI system?",
+      "type": "multiple_choice",
+      "options": [
+        "5",
+        "6", 
+        "7",
+        "8"
+      ],
+      "correct_answer": "7",
+      "points": 2,
+      "category": "Basic Recognition",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "There are exactly 7 fundamental quantities in SI: length, mass, time, electric current, temperature, amount of substance, and luminous intensity."
+    },
+    {
+      "id": "q2", 
+      "text": "The SI unit of electric current is:",
+      "type": "multiple_choice",
+      "options": [
+        "Coulomb",
+        "Ampere",
+        "Volt", 
+        "Ohm"
+      ],
+      "correct_answer": "Ampere",
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Ampere (A) is the SI base unit for electric current, defined by the flow of electric charge."
+    },
+    {
+      "id": "q3",
+      "text": "Which of the following is a fundamental quantity?",
+      "type": "multiple_choice", 
+      "options": [
+        "Velocity",
+        "Force",
+        "Temperature",
+        "Energy"
+      ],
+      "correct_answer": "Temperature",
+      "points": 2,
+      "category": "Basic Recognition",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Temperature is one of the 7 fundamental quantities. Velocity, force, and energy are all derived quantities."
+    },
+    {
+      "id": "q4",
+      "text": "The fundamental unit of luminous intensity is:",
+      "type": "multiple_choice",
+      "options": [
+        "Lumen",
+        "Candela", 
+        "Lux",
+        "Watt"
+      ],
+      "correct_answer": "Candela",
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy", 
+      "time_limit": 30,
+      "solution": "Candela (cd) is the SI base unit of luminous intensity, measuring the luminous flux per unit solid angle."
+    },
+    {
+      "id": "q5",
+      "text": "The SI unit of mass is:",
+      "type": "multiple_choice",
+      "options": [
+        "gram",
+        "kilogram",
+        "pound",
+        "newton"
+      ],
+      "correct_answer": "kilogram", 
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Kilogram (kg) is the SI base unit of mass, currently defined using Planck's constant."
+    },
+    {
+      "id": "q6",
+      "text": "Which is the correct SI unit of time?",
+      "type": "multiple_choice",
+      "options": [
+        "minute",
+        "hour", 
+        "second",
+        "day"
+      ],
+      "correct_answer": "second",
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Second (s) is the SI base unit of time, defined by cesium atomic transitions."
+    },
+    {
+      "id": "q7",
+      "text": "The fundamental unit of length is:",
+      "type": "multiple_choice",
+      "options": [
+        "centimeter",
+        "meter",
+        "kilometer", 
+        "millimeter"
+      ],
+      "correct_answer": "meter",
+      "points": 2,
+      "category": "Unit Identification", 
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Meter (m) is the SI base unit of length, defined by the speed of light in vacuum."
+    },
+    {
+      "id": "q8",
+      "text": "The SI unit for amount of substance is:",
+      "type": "multiple_choice",
+      "options": [
+        "gram",
+        "molecule",
+        "mole",
+        "atom"
+      ],
+      "correct_answer": "mole",
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Mole (mol) is the SI base unit for amount of substance, defined using Avogadro's number."
+    },
+    {
+      "id": "q9", 
+      "text": "1 kilometer equals:",
+      "type": "multiple_choice",
+      "options": [
+        "100 m",
+        "1000 m",
+        "10000 m",
+        "100000 m"
+      ],
+      "correct_answer": "1000 m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1 km = 1000 m. The prefix 'kilo' means 1000 times the base unit."
+    },
+    {
+      "id": "q10",
+      "text": "1 hour equals how many seconds?",
+      "type": "multiple_choice", 
+      "options": [
+        "3600",
+        "36000", 
+        "360",
+        "60"
+      ],
+      "correct_answer": "3600",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1 hour = 60 minutes × 60 seconds = 3600 seconds."
+    },
+    {
+      "id": "q11",
+      "text": "Convert 5000 grams to kilograms:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5 kg",
+        "5 kg",
+        "50 kg", 
+        "500 kg"
+      ],
+      "correct_answer": "5 kg",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "5000 g ÷ 1000 = 5 kg. There are 1000 grams in 1 kilogram."
+    },
+    {
+      "id": "q12",
+      "text": "The symbol for the SI unit of thermodynamic temperature is:",
+      "type": "multiple_choice",
+      "options": [
+        "°C",
+        "°F",
+        "K",
+        "R"
+      ],
+      "correct_answer": "K",
+      "points": 2,
+      "category": "Unit Symbols",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "K represents Kelvin, the SI base unit of thermodynamic temperature."
+    },
+    {
+      "id": "q13",
+      "text": "Which prefix represents 10⁻³?",
+      "type": "multiple_choice",
+      "options": [
+        "micro",
+        "milli",
+        "centi", 
+        "nano"
+      ],
+      "correct_answer": "milli",
+      "points": 2,
+      "category": "Prefixes",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Milli (m) represents 10⁻³ or 1/1000 of the base unit."
+    },
+    {
+      "id": "q14",
+      "text": "The prefix 'mega' represents:",
+      "type": "multiple_choice",
+      "options": [
+        "10³",
+        "10⁶",
+        "10⁹",
+        "10¹²"
+      ],
+      "correct_answer": "10⁶",
+      "points": 2,
+      "category": "Prefixes",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Mega (M) represents 10⁶ or 1,000,000 times the base unit."
+    },
+    {
+      "id": "q15",
+      "text": "Convert 25°C to Kelvin:",
+      "type": "multiple_choice",
+      "options": [
+        "248 K",
+        "298 K",
+        "323 K",
+        "273 K"
+      ],
+      "correct_answer": "298 K",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "K = °C + 273.15, so 25°C + 273.15 = 298.15 K ≈ 298 K."
+    },
+    {
+      "id": "q16",
+      "text": "1 millimeter equals:",
+      "type": "multiple_choice",
+      "options": [
+        "0.1 m",
+        "0.01 m",
+        "0.001 m",
+        "0.0001 m"
+      ],
+      "correct_answer": "0.001 m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1 mm = 10⁻³ m = 0.001 m. Milli prefix means 1/1000."
+    },
+    {
+      "id": "q17",
+      "text": "The SI system is also known as:",
+      "type": "multiple_choice",
+      "options": [
+        "CGS system",
+        "MKS system", 
+        "FPS system",
+        "International System"
+      ],
+      "correct_answer": "International System",
+      "points": 2,
+      "category": "System Knowledge",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI stands for Système International d'Unités (International System of Units)."
+    },
+    {
+      "id": "q18",
+      "text": "How many milligrams are in 2.5 grams?",
+      "type": "multiple_choice",
+      "options": [
+        "25 mg",
+        "250 mg",
+        "2500 mg",
+        "25000 mg"
+      ],
+      "correct_answer": "2500 mg",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "2.5 g × 1000 mg/g = 2500 mg. There are 1000 milligrams in 1 gram."
+    },
+    {
+      "id": "q19",
+      "text": "The fundamental quantity for electric current is measured in:",
+      "type": "multiple_choice",
+      "options": [
+        "Coulomb per second",
+        "Ampere",
+        "Volt per ohm",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 3,
+      "category": "Conceptual",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Ampere is the base unit, but it equals Coulomb/second and Volt/ohm by definition."
+    },
+    {
+      "id": "q20",
+      "text": "Which of these is NOT a fundamental quantity?",
+      "type": "multiple_choice",
+      "options": [
+        "Mass",
+        "Area",
+        "Time", 
+        "Electric current"
+      ],
+      "correct_answer": "Area",
+      "points": 2,
+      "category": "Basic Recognition",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Area is a derived quantity (length × length). Mass, time, and electric current are fundamental."
+    },
+    {
+      "id": "q21",
+      "text": "The meter is currently defined using:",
+      "type": "multiple_choice",
+      "options": [
+        "Platinum-iridium bar",
+        "Speed of light",
+        "Earth's circumference",
+        "Atomic wavelength"
+      ],
+      "correct_answer": "Speed of light",
+      "points": 3,
+      "category": "Definition",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The meter is defined as the distance light travels in vacuum in 1/299,792,458 seconds."
+    },
+    {
+      "id": "q22",
+      "text": "Convert 2 days to seconds:",
+      "type": "multiple_choice",
+      "options": [
+        "172800 s",
+        "86400 s",
+        "7200 s",
+        "3600 s"
+      ],
+      "correct_answer": "172800 s",
+      "points": 3,
+      "category": "Conversion",
+      "difficulty": "medium",
+      "time_limit": 40,
+      "solution": "2 days × 24 hours/day × 3600 s/hour = 172,800 seconds."
+    },
+    {
+      "id": "q23",
+      "text": "The kilogram is defined using:",
+      "type": "multiple_choice",
+      "options": [
+        "Platinum-iridium cylinder",
+        "Planck's constant",
+        "Carbon-12 atoms",
+        "Water density"
+      ],
+      "correct_answer": "Planck's constant",
+      "points": 3,
+      "category": "Definition",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Since 2019, the kilogram is defined using Planck's constant (6.62607015×10⁻³⁴ J⋅s)."
+    },
+    {
+      "id": "q24",
+      "text": "1 microsecond equals:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻³ s",
+        "10⁻⁶ s",
+        "10⁻⁹ s",
+        "10⁻¹² s"
+      ],
+      "correct_answer": "10⁻⁶ s",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Micro (μ) prefix represents 10⁻⁶, so 1 μs = 10⁻⁶ seconds."
+    },
+    {
+      "id": "q25",
+      "text": "The second is defined using transitions of:",
+      "type": "multiple_choice",
+      "options": [
+        "Hydrogen atoms",
+        "Cesium-133 atoms",
+        "Carbon-12 atoms",
+        "Uranium atoms"
+      ],
+      "correct_answer": "Cesium-133 atoms",
+      "points": 3,
+      "category": "Definition",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The second is defined by 9,192,631,770 periods of cesium-133 atomic transitions."
+    },
+    {
+      "id": "q26",
+      "text": "Which unit is used for measuring very large distances in astronomy?",
+      "type": "multiple_choice",
+      "options": [
+        "Kilometer",
+        "Light-year",
+        "Astronomical unit",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 2,
+      "category": "Application",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "All three units are used in astronomy: km for planetary distances, AU for solar system, light-years for stellar distances."
+    },
+    {
+      "id": "q27",
+      "text": "1 nanometer equals:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻⁶ m",
+        "10⁻⁹ m",
+        "10⁻¹² m",
+        "10⁻¹⁵ m"
+      ],
+      "correct_answer": "10⁻⁹ m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Nano (n) prefix represents 10⁻⁹, so 1 nm = 10⁻⁹ meters."
+    },
+    {
+      "id": "q28",
+      "text": "The advantage of SI system is:",
+      "type": "multiple_choice",
+      "options": [
+        "Decimal system",
+        "International acceptance",
+        "Coherent system",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 2,
+      "category": "System Knowledge",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI system has all these advantages: decimal-based, internationally accepted, and coherent relationships."
+    },
+    {
+      "id": "q29",
+      "text": "Express 0.05 kg in grams:",
+      "type": "multiple_choice",
+      "options": [
+        "5 g",
+        "50 g",
+        "500 g",
+        "0.5 g"
+      ],
+      "correct_answer": "50 g",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "0.05 kg × 1000 g/kg = 50 grams."
+    },
+    {
+      "id": "q30",
+      "text": "The mole is defined using:",
+      "type": "multiple_choice",
+      "options": [
+        "Avogadro's number",
+        "Carbon-12 atoms",
+        "6.02214076×10²³ entities",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 3,
+      "category": "Definition",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "The mole is defined as exactly 6.02214076×10²³ elementary entities (Avogadro's number)."
+    },
+    {
+      "id": "q31",
+      "text": "Convert 500 cm to meters:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5 m",
+        "5 m",
+        "50 m",
+        "5000 m"
+      ],
+      "correct_answer": "5 m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "500 cm ÷ 100 cm/m = 5 meters. There are 100 centimeters in 1 meter."
+    },
+    {
+      "id": "q32",
+      "text": "The prefix 'kilo' represents:",
+      "type": "multiple_choice",
+      "options": [
+        "10²",
+        "10³",
+        "10⁶",
+        "10⁹"
+      ],
+      "correct_answer": "10³",
+      "points": 2,
+      "category": "Prefixes",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Kilo (k) represents 10³ or 1000 times the base unit."
+    },
+    {
+      "id": "q33",
+      "text": "Which temperature scale has its zero at absolute zero?",
+      "type": "multiple_choice",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "correct_answer": "Kelvin",
+      "points": 2,
+      "category": "Temperature",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Kelvin scale starts at absolute zero (0 K = -273.15°C), making it the thermodynamic temperature scale."
+    },
+    {
+      "id": "q34",
+      "text": "1 gigameter equals:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁶ m",
+        "10⁹ m",
+        "10¹² m",
+        "10¹⁵ m"
+      ],
+      "correct_answer": "10⁹ m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Giga (G) prefix represents 10⁹, so 1 Gm = 10⁹ meters."
+    },
+    {
+      "id": "q35",
+      "text": "The fundamental quantity that measures the 'amount of matter' is:",
+      "type": "multiple_choice",
+      "options": [
+        "Weight",
+        "Mass",
+        "Volume",
+        "Density"
+      ],
+      "correct_answer": "Mass",
+      "points": 2,
+      "category": "Conceptual",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Mass is the fundamental quantity measuring amount of matter, independent of gravitational field."
+    },
+    {
+      "id": "q36",
+      "text": "Convert 1.5 hours to minutes:",
+      "type": "multiple_choice",
+      "options": [
+        "60 min",
+        "90 min",
+        "120 min",
+        "150 min"
+      ],
+      "correct_answer": "90 min",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1.5 hours × 60 minutes/hour = 90 minutes."
+    },
+    {
+      "id": "q37",
+      "text": "The candela measures:",
+      "type": "multiple_choice",
+      "options": [
+        "Light wavelength",
+        "Light speed",
+        "Luminous intensity",
+        "Light energy"
+      ],
+      "correct_answer": "Luminous intensity",
+      "points": 2,
+      "category": "Definition",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Candela (cd) is the SI base unit of luminous intensity, measuring light emission in a given direction."
+    },
+    {
+      "id": "q38",
+      "text": "1 picometer equals:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻⁹ m",
+        "10⁻¹² m",
+        "10⁻¹⁵ m",
+        "10⁻¹⁸ m"
+      ],
+      "correct_answer": "10⁻¹² m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Pico (p) prefix represents 10⁻¹², so 1 pm = 10⁻¹² meters."
+    },
+    {
+      "id": "q39",
+      "text": "Which fundamental quantity is independent of other quantities?",
+      "type": "multiple_choice",
+      "options": [
+        "All fundamental quantities",
+        "Only mass and length",
+        "Only time",
+        "None of them"
+      ],
+      "correct_answer": "All fundamental quantities",
+      "points": 3,
+      "category": "Conceptual",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "By definition, all fundamental quantities are independent and cannot be expressed in terms of other quantities."
+    },
+    {
+      "id": "q40",
+      "text": "The unit symbol 'A' represents:",
+      "type": "multiple_choice",
+      "options": [
+        "Area",
+        "Ampere",
+        "Acceleration",
+        "Angstrom"
+      ],
+      "correct_answer": "Ampere",
+      "points": 2,
+      "category": "Unit Symbols",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "A is the symbol for Ampere, the SI base unit of electric current."
+    },
+    {
+      "id": "q41",
+      "text": "Express 2500 millimeters in meters:",
+      "type": "multiple_choice",
+      "options": [
+        "0.25 m",
+        "2.5 m",
+        "25 m",
+        "250 m"
+      ],
+      "correct_answer": "2.5 m",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "2500 mm ÷ 1000 mm/m = 2.5 meters."
+    },
+    {
+      "id": "q42",
+      "text": "Absolute zero temperature is:",
+      "type": "multiple_choice",
+      "options": [
+        "0°C",
+        "0 K",
+        "-273°C",
+        "Both b and c"
+      ],
+      "correct_answer": "Both b and c",
+      "points": 2,
+      "category": "Temperature",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Absolute zero is 0 K, which equals -273.15°C (approximately -273°C)."
+    },
+    {
+      "id": "q43",
+      "text": "The prefix 'centi' means:",
+      "type": "multiple_choice",
+      "options": [
+        "10⁻¹",
+        "10⁻²",
+        "10⁻³",
+        "10²"
+      ],
+      "correct_answer": "10⁻²",
+      "points": 2,
+      "category": "Prefixes",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Centi (c) represents 10⁻² or 1/100 of the base unit."
+    },
+    {
+      "id": "q44",
+      "text": "Which is the largest unit of time?",
+      "type": "multiple_choice",
+      "options": [
+        "Millisecond",
+        "Second",
+        "Minute",
+        "Hour"
+      ],
+      "correct_answer": "Hour",
+      "points": 2,
+      "category": "Unit Comparison",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Among the given options, hour is the largest: 1 hour = 3600 seconds."
+    },
+    {
+      "id": "q45",
+      "text": "1 metric ton equals:",
+      "type": "multiple_choice",
+      "options": [
+        "100 kg",
+        "1000 kg",
+        "10000 kg",
+        "1 kg"
+      ],
+      "correct_answer": "1000 kg",
+      "points": 2,
+      "category": "Conversion",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "1 metric ton = 1000 kg = 10³ kg."
+    },
+    {
+      "id": "q46",
+      "text": "The SI system uses which mathematical base?",
+      "type": "multiple_choice",
+      "options": [
+        "Base 2",
+        "Base 8",
+        "Base 10",
+        "Base 16"
+      ],
+      "correct_answer": "Base 10",
+      "points": 2,
+      "category": "System Knowledge",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI system is decimal-based (base 10), using powers of 10 for prefixes."
+    },
+    {
+      "id": "q47",
+      "text": "Convert 0.002 kg to milligrams:",
+      "type": "multiple_choice",
+      "options": [
+        "2 mg",
+        "20 mg",
+        "200 mg",
+        "2000 mg"
+      ],
+      "correct_answer": "2000 mg",
+      "points": 3,
+      "category": "Conversion",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "0.002 kg × 1000 g/kg × 1000 mg/g = 2000 mg."
+    },
+    {
+      "id": "q48",
+      "text": "Which quantity has the unit 'mol'?",
+      "type": "multiple_choice",
+      "options": [
+        "Mass",
+        "Amount of substance",
+        "Density",
+        "Concentration"
+      ],
+      "correct_answer": "Amount of substance",
+      "points": 2,
+      "category": "Unit Identification",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Mole (mol) is the SI base unit for amount of substance, one of the 7 fundamental quantities."
+    },
+    {
+      "id": "q49",
+      "text": "The term 'SI' stands for:",
+      "type": "multiple_choice",
+      "options": [
+        "Standard International",
+        "Système International",
+        "Scientific International",
+        "Systematic International"
+      ],
+      "correct_answer": "Système International",
+      "points": 2,
+      "category": "System Knowledge",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "SI stands for 'Système International d'Unités' (International System of Units) in French."
+    },
+    {
+      "id": "q50",
+      "text": "How many fundamental units are independent of human standards?",
+      "type": "multiple_choice",
+      "options": [
+        "All 7 units",
+        "6 units",
+        "5 units",
+        "None"
+      ],
+      "correct_answer": "All 7 units",
+      "points": 3,
+      "category": "Conceptual",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "All 7 SI base units are now defined using fundamental physical constants, making them independent of human artifacts."
+    }
+  ],
+  "scoring": {
+    "total_points": 110,
+    "passing_score": 88,
+    "grade_scale": {
+      "A": "98-110",
+      "B": "88-97", 
+      "C": "77-87",
+      "D": "66-76",
+      "F": "0-65"
+    }
+  },
+  "instructions": {
+    "time_management": "Average 54 seconds per question",
+    "difficulty_distribution": {
+      "easy": "36 questions (72%)",
+      "medium": "14 questions (28%)"
+    },
+    "category_distribution": {
+      "Basic Recognition": "8 questions",
+      "Unit Identification": "12 questions", 
+      "Conversion": "20 questions",
+      "Definition": "4 questions",
+      "Conceptual": "4 questions",
+      "System Knowledge": "2 questions"
+    }
+  }
+}

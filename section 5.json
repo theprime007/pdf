@@ -1,0 +1,906 @@
+{
+  "section": "Section 5: Error Analysis - MCQ Breakdown",
+  "total_questions": 50,
+  "time_limit": 85,
+  "target_score": "75%",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The difference between the true value and the measured value is called:",
+      "type": "multiple_choice",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_answer": "3%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For V = 4πr³/3, ΔV/V = 3(Δr/r) = 3 × 1% = 3%",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q44",
+      "text": "The coefficient of variation is defined as:",
+      "type": "multiple_choice",
+      "options": [
+        "Standard deviation / Mean",
+        "Mean / Standard deviation",
+        "Variance / Mean",
+        "Mean / Variance"
+      ],
+      "correct_answer": "Standard deviation / Mean",
+      "points": 3,
+      "category": "Statistical Analysis",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "Coefficient of variation = (Standard deviation / Mean) × 100%, used to compare variability of different datasets.",
+      "pyq_year": "RRB Advanced Pattern"
+    },
+    {
+      "id": "q45",
+      "text": "Which type of error affects the precision of measurement?",
+      "type": "multiple_choice",
+      "options": [
+        "Systematic error",
+        "Random error",
+        "Personal error",
+        "Instrumental error"
+      ],
+      "correct_answer": "Random error",
+      "points": 2,
+      "category": "Error Effects",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Random errors affect precision (repeatability) while systematic errors affect accuracy (closeness to true value).",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q46",
+      "text": "If resistance R = V/I, and errors in V and I are 2% and 3% respectively, the maximum possible error in R is:",
+      "type": "multiple_choice",
+      "options": [
+        "1%",
+        "5%",
+        "6%",
+        "8%"
+      ],
+      "correct_answer": "5%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For R = V/I, ΔR/R = ΔV/V + ΔI/I = 2% + 3% = 5%",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q47",
+      "text": "The error that occurs due to changes in ambient conditions during measurement is:",
+      "type": "multiple_choice",
+      "options": [
+        "Random error",
+        "Systematic error",
+        "Environmental error",
+        "Personal error"
+      ],
+      "correct_answer": "Environmental error",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Environmental errors are caused by changes in external conditions like temperature, humidity, pressure, and electromagnetic interference.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q48",
+      "text": "To minimize personal errors, one should:",
+      "type": "multiple_choice",
+      "options": [
+        "Use multiple instruments",
+        "Take proper training and follow standard procedures",
+        "Change environmental conditions",
+        "Use only digital instruments"
+      ],
+      "correct_answer": "Take proper training and follow standard procedures",
+      "points": 2,
+      "category": "Error Reduction",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Personal errors can be minimized through proper training, following standard procedures, and maintaining consistency in measurement techniques.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q49",
+      "text": "The standard error of mean is related to:",
+      "type": "multiple_choice",
+      "options": [
+        "Individual measurements",
+        "Sample size",
+        "Standard deviation",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 3,
+      "category": "Statistical Analysis",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "Standard error of mean = Standard deviation / √(sample size), so it depends on both the standard deviation of individual measurements and the sample size.",
+      "pyq_year": "RRB Advanced Pattern"
+    },
+    {
+      "id": "q50",
+      "text": "If the power P = V²/R, and the errors in V and R are 1% and 2% respectively, then the error in P is:",
+      "type": "multiple_choice",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_answer": "4%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "For P = V²/R, ΔP/P = 2(ΔV/V) + ΔR/R = 2(1%) + 2% = 2% + 2% = 4%",
+      "pyq_year": "RRB Advanced Calculation"
+    }
+        "Relative error",
+        "Absolute error",
+        "Percentage error",
+        "Random error"
+      ],
+      "correct_answer": "Absolute error",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Absolute error is the difference between the true value and the measured value. Δa = |a_true - a_measured|",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q2",
+      "text": "The ratio of absolute error to the true value is known as:",
+      "type": "multiple_choice",
+      "options": [
+        "Absolute error",
+        "Relative error",
+        "Systematic error",
+        "Random error"
+      ],
+      "correct_answer": "Relative error",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Relative error = Absolute error / True value = Δa / a_true",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q3",
+      "text": "Percentage error is calculated as:",
+      "type": "multiple_choice",
+      "options": [
+        "Relative error × 10",
+        "Relative error × 100",
+        "Absolute error × 100",
+        "True value × 100"
+      ],
+      "correct_answer": "Relative error × 100",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Percentage error = (Relative error) × 100% = (Δa / a_true) × 100%",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q4",
+      "text": "Which type of error can be reduced by taking multiple readings?",
+      "type": "multiple_choice",
+      "options": [
+        "Systematic error",
+        "Random error",
+        "Instrumental error",
+        "Personal error"
+      ],
+      "correct_answer": "Random error",
+      "points": 2,
+      "category": "Error Reduction",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Random errors can be reduced by taking multiple readings and calculating the mean, as they tend to cancel out.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q5",
+      "text": "Systematic errors are:",
+      "type": "multiple_choice",
+      "options": [
+        "Variable and unpredictable",
+        "Constant and predictable",
+        "Only due to human mistakes",
+        "Always positive"
+      ],
+      "correct_answer": "Constant and predictable",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Systematic errors are constant and predictable. They affect all measurements in the same way and can be corrected if identified.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q6",
+      "text": "The least count of an instrument represents:",
+      "type": "multiple_choice",
+      "options": [
+        "Maximum error",
+        "Minimum measurable value",
+        "True value",
+        "Systematic error"
+      ],
+      "correct_answer": "Minimum measurable value",
+      "points": 2,
+      "category": "Instrumental Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Least count is the smallest measurement that can be made accurately with an instrument.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q7",
+      "text": "If the measured value is 9.8 m and true value is 10.0 m, the absolute error is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.2 m",
+        "-0.2 m",
+        "19.8 m",
+        "0.02 m"
+      ],
+      "correct_answer": "0.2 m",
+      "points": 2,
+      "category": "Error Calculations",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Absolute error = |True value - Measured value| = |10.0 - 9.8| = 0.2 m",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q8",
+      "text": "In the above question, the relative error is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.02",
+        "0.2",
+        "2",
+        "20"
+      ],
+      "correct_answer": "0.02",
+      "points": 2,
+      "category": "Error Calculations",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Relative error = Absolute error / True value = 0.2 / 10.0 = 0.02",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q9",
+      "text": "The percentage error for the measurement in question 7 is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.2%",
+        "2%",
+        "20%",
+        "0.02%"
+      ],
+      "correct_answer": "2%",
+      "points": 2,
+      "category": "Error Calculations",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Percentage error = Relative error × 100% = 0.02 × 100% = 2%",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q10",
+      "text": "Which of the following is an example of systematic error?",
+      "type": "multiple_choice",
+      "options": [
+        "Reading fluctuations due to temperature",
+        "Zero error in instruments",
+        "Parallax error in reading",
+        "Electronic noise"
+      ],
+      "correct_answer": "Zero error in instruments",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Zero error is a systematic error as it consistently affects all measurements by the same amount.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q11",
+      "text": "The accuracy of a measurement refers to:",
+      "type": "multiple_choice",
+      "options": [
+        "Closeness to the true value",
+        "Consistency of repeated measurements",
+        "Least count of instrument",
+        "Random variations"
+      ],
+      "correct_answer": "Closeness to the true value",
+      "points": 2,
+      "category": "Accuracy and Precision",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Accuracy refers to how close a measured value is to the true or accepted value.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q12",
+      "text": "Precision of a measurement refers to:",
+      "type": "multiple_choice",
+      "options": [
+        "Closeness to the true value",
+        "Consistency of repeated measurements",
+        "Systematic errors",
+        "Instrumental errors"
+      ],
+      "correct_answer": "Consistency of repeated measurements",
+      "points": 2,
+      "category": "Accuracy and Precision",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Precision refers to the consistency or reproducibility of repeated measurements under the same conditions.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q13",
+      "text": "A measurement can be:",
+      "type": "multiple_choice",
+      "options": [
+        "Accurate but not precise",
+        "Precise but not accurate",
+        "Both accurate and precise",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "points": 2,
+      "category": "Accuracy and Precision",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "A measurement can have any combination of accuracy and precision depending on the nature of errors present.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q14",
+      "text": "If a = 5.0 ± 0.2 and b = 3.0 ± 0.1, then a + b equals:",
+      "type": "multiple_choice",
+      "options": [
+        "8.0 ± 0.3",
+        "8.0 ± 0.1",
+        "8.0 ± 0.2",
+        "8.0 ± 0.05"
+      ],
+      "correct_answer": "8.0 ± 0.3",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For addition: Δ(a+b) = Δa + Δb = 0.2 + 0.1 = 0.3. So a + b = 5.0 + 3.0 ± (0.2 + 0.1) = 8.0 ± 0.3",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q15",
+      "text": "If a = 5.0 ± 0.2 and b = 3.0 ± 0.1, then a - b equals:",
+      "type": "multiple_choice",
+      "options": [
+        "2.0 ± 0.3",
+        "2.0 ± 0.1",
+        "2.0 ± 0.2",
+        "2.0 ± 0.05"
+      ],
+      "correct_answer": "2.0 ± 0.3",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For subtraction: Δ(a-b) = Δa + Δb = 0.2 + 0.1 = 0.3. So a - b = 5.0 - 3.0 ± (0.2 + 0.1) = 2.0 ± 0.3",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q16",
+      "text": "For multiplication and division, the relative errors are:",
+      "type": "multiple_choice",
+      "options": [
+        "Subtracted",
+        "Added",
+        "Multiplied",
+        "Divided"
+      ],
+      "correct_answer": "Added",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For multiplication and division, the relative errors (or fractional errors) are added: Δ(ab)/ab = Δa/a + Δb/b",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q17",
+      "text": "The error in measurement due to the limited resolving power of the measuring instrument is called:",
+      "type": "multiple_choice",
+      "options": [
+        "Personal error",
+        "Systematic error",
+        "Instrumental error",
+        "Environmental error"
+      ],
+      "correct_answer": "Instrumental error",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Instrumental error arises due to limitations of the measuring instrument itself, including its resolving power and calibration.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q18",
+      "text": "Parallax error occurs when:",
+      "type": "multiple_choice",
+      "options": [
+        "The instrument is not calibrated",
+        "The eye is not positioned correctly while reading",
+        "Temperature changes during measurement",
+        "The instrument has manufacturing defects"
+      ],
+      "correct_answer": "The eye is not positioned correctly while reading",
+      "points": 2,
+      "category": "Personal Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Parallax error occurs when the observer's eye is not positioned perpendicular to the scale while taking readings.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q19",
+      "text": "If the length of a rod is measured as 2.53 m with an error of ±0.01 m, the relative error is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.004",
+        "0.04",
+        "0.4",
+        "4"
+      ],
+      "correct_answer": "0.004",
+      "points": 2,
+      "category": "Error Calculations",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Relative error = Δl/l = 0.01/2.53 = 0.00395 ≈ 0.004",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q20",
+      "text": "The standard deviation of a set of measurements indicates:",
+      "type": "multiple_choice",
+      "options": [
+        "Systematic error",
+        "Random error spread",
+        "Instrumental error",
+        "Personal bias"
+      ],
+      "correct_answer": "Random error spread",
+      "points": 2,
+      "category": "Statistical Analysis",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Standard deviation quantifies the spread or dispersion of random errors in a set of measurements.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q21",
+      "text": "To minimize random errors, we should:",
+      "type": "multiple_choice",
+      "options": [
+        "Use only one measurement",
+        "Take multiple measurements and find average",
+        "Calibrate the instrument",
+        "Change the observer"
+      ],
+      "correct_answer": "Take multiple measurements and find average",
+      "points": 2,
+      "category": "Error Reduction",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Random errors can be minimized by taking multiple measurements and calculating their mean value.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q22",
+      "text": "Zero error in a vernier caliper is an example of:",
+      "type": "multiple_choice",
+      "options": [
+        "Random error",
+        "Systematic error",
+        "Personal error",
+        "Environmental error"
+      ],
+      "correct_answer": "Systematic error",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Zero error is a systematic error as it consistently affects all measurements by the same amount and can be corrected.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q23",
+      "text": "If a physical quantity Q = a²b/c, and the relative errors in a, b, c are 2%, 3%, and 4% respectively, then the relative error in Q is:",
+      "type": "multiple_choice",
+      "options": [
+        "9%",
+        "11%",
+        "13%",
+        "15%"
+      ],
+      "correct_answer": "11%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "For Q = a²b/c, ΔQ/Q = 2(Δa/a) + (Δb/b) + (Δc/c) = 2(2%) + 3% + 4% = 4% + 3% + 4% = 11%",
+      "pyq_year": "RRB Advanced Calculation"
+    },
+    {
+      "id": "q24",
+      "text": "The mean of five measurements is 25.2 cm. If the individual errors are +0.1, -0.2, +0.3, -0.1, -0.1 cm, the mean absolute error is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.16 cm",
+        "0.10 cm",
+        "0.20 cm",
+        "0.08 cm"
+      ],
+      "correct_answer": "0.16 cm",
+      "points": 3,
+      "category": "Statistical Analysis",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Mean absolute error = (|0.1| + |-0.2| + |0.3| + |-0.1| + |-0.1|)/5 = (0.1 + 0.2 + 0.3 + 0.1 + 0.1)/5 = 0.8/5 = 0.16 cm",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q25",
+      "text": "Which error cannot be eliminated completely?",
+      "type": "multiple_choice",
+      "options": [
+        "Systematic error",
+        "Random error",
+        "Personal error",
+        "Zero error"
+      ],
+      "correct_answer": "Random error",
+      "points": 2,
+      "category": "Error Nature",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Random errors are unpredictable and cannot be eliminated completely, but can only be reduced by statistical methods.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q26",
+      "text": "The uncertainty in a measurement represents:",
+      "type": "multiple_choice",
+      "options": [
+        "True value",
+        "Measured value",
+        "Possible error range",
+        "Systematic bias"
+      ],
+      "correct_answer": "Possible error range",
+      "points": 2,
+      "category": "Error Concepts",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Uncertainty represents the range within which the true value is expected to lie, indicating the reliability of the measurement.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q27",
+      "text": "If the time period of a pendulum is T = 2π√(l/g), and errors in l and g are 1% each, the error in T is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5%",
+        "1%",
+        "2%",
+        "4%"
+      ],
+      "correct_answer": "1%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "For T = 2π√(l/g) = 2π(l)^(1/2)(g)^(-1/2), ΔT/T = (1/2)(Δl/l) + (1/2)(Δg/g) = (1/2)(1%) + (1/2)(1%) = 1%",
+      "pyq_year": "RRB Advanced Calculation"
+    },
+    {
+      "id": "q28",
+      "text": "In which case is the absolute error maximum?",
+      "type": "multiple_choice",
+      "options": [
+        "When measured value > true value",
+        "When measured value < true value",
+        "When measured value = true value",
+        "When the difference is maximum"
+      ],
+      "correct_answer": "When the difference is maximum",
+      "points": 2,
+      "category": "Error Analysis",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Absolute error is maximum when the absolute difference between true value and measured value is maximum, regardless of which is larger.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q29",
+      "text": "The resolution of an instrument is related to:",
+      "type": "multiple_choice",
+      "options": [
+        "Its cost",
+        "Its least count",
+        "Its size",
+        "Its age"
+      ],
+      "correct_answer": "Its least count",
+      "points": 2,
+      "category": "Instrumental Properties",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Resolution of an instrument is directly related to its least count - the smallest measurement it can accurately detect.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q30",
+      "text": "Environmental errors are caused by:",
+      "type": "multiple_choice",
+      "options": [
+        "Observer mistakes",
+        "Instrument defects",
+        "Changes in temperature, pressure, humidity",
+        "Mathematical calculations"
+      ],
+      "correct_answer": "Changes in temperature, pressure, humidity",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Environmental errors arise due to changes in external conditions like temperature, pressure, humidity, and electromagnetic fields.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q31",
+      "text": "The error introduced due to the finite response time of an instrument is called:",
+      "type": "multiple_choice",
+      "options": [
+        "Lag error",
+        "Loading error",
+        "Environmental error",
+        "Systematic error"
+      ],
+      "correct_answer": "Lag error",
+      "points": 2,
+      "category": "Instrumental Errors",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Lag error occurs when an instrument cannot respond instantaneously to changes in the quantity being measured.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q32",
+      "text": "If the density ρ = m/V, and errors in m and V are 0.5% and 1% respectively, the error in ρ is:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5%",
+        "1%",
+        "1.5%",
+        "2%"
+      ],
+      "correct_answer": "1.5%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For ρ = m/V, Δρ/ρ = Δm/m + ΔV/V = 0.5% + 1% = 1.5%",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q33",
+      "text": "Which of the following can help reduce systematic errors?",
+      "type": "multiple_choice",
+      "options": [
+        "Taking multiple readings",
+        "Proper calibration of instruments",
+        "Statistical analysis",
+        "Changing the observer"
+      ],
+      "correct_answer": "Proper calibration of instruments",
+      "points": 2,
+      "category": "Error Reduction",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Systematic errors can be reduced by proper calibration, using standard references, and correcting for known instrument limitations.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q34",
+      "text": "The number of significant figures in the measurement 0.00520 is:",
+      "type": "multiple_choice",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct_answer": "3",
+      "points": 2,
+      "category": "Significant Figures",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "In 0.00520, the significant figures are 5, 2, and 0 (trailing zero after decimal). Leading zeros are not significant.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q35",
+      "text": "When adding measurements with different precisions, the result should be rounded to:",
+      "type": "multiple_choice",
+      "options": [
+        "Maximum decimal places",
+        "Minimum decimal places",
+        "Average decimal places",
+        "Two decimal places"
+      ],
+      "correct_answer": "Minimum decimal places",
+      "points": 2,
+      "category": "Significant Figures",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "When adding or subtracting, the result should have the same number of decimal places as the measurement with the fewest decimal places.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q36",
+      "text": "A measurement with high precision but low accuracy indicates:",
+      "type": "multiple_choice",
+      "options": [
+        "Random errors are high",
+        "Systematic errors are high",
+        "Both errors are high",
+        "No errors present"
+      ],
+      "correct_answer": "Systematic errors are high",
+      "points": 3,
+      "category": "Accuracy and Precision",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "High precision with low accuracy indicates the presence of systematic errors - measurements are consistent but consistently wrong.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q37",
+      "text": "The relative error is independent of:",
+      "type": "multiple_choice",
+      "options": [
+        "Absolute error",
+        "True value",
+        "Units of measurement",
+        "Measuring instrument"
+      ],
+      "correct_answer": "Units of measurement",
+      "points": 2,
+      "category": "Error Properties",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "Relative error is a dimensionless quantity and is independent of the units used for measurement.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q38",
+      "text": "If the area A = πr², and the error in radius r is 2%, then the error in area is:",
+      "type": "multiple_choice",
+      "options": [
+        "2%",
+        "4%",
+        "6%",
+        "8%"
+      ],
+      "correct_answer": "4%",
+      "points": 3,
+      "category": "Error Propagation",
+      "difficulty": "medium",
+      "time_limit": 35,
+      "solution": "For A = πr², ΔA/A = 2(Δr/r) = 2 × 2% = 4%",
+      "pyq_year": "RRB Calculation Type"
+    },
+    {
+      "id": "q39",
+      "text": "Loading error in electrical measurements occurs due to:",
+      "type": "multiple_choice",
+      "options": [
+        "Temperature changes",
+        "Instrument drawing current from the circuit",
+        "Parallax in reading",
+        "Calibration problems"
+      ],
+      "correct_answer": "Instrument drawing current from the circuit",
+      "points": 3,
+      "category": "Instrumental Errors",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "Loading error occurs when the measuring instrument alters the circuit being measured by drawing current or affecting impedance.",
+      "pyq_year": "RRB Advanced Pattern"
+    },
+    {
+      "id": "q40",
+      "text": "The probable error is approximately equal to:",
+      "type": "multiple_choice",
+      "options": [
+        "0.5 × Standard deviation",
+        "0.67 × Standard deviation",
+        "1.0 × Standard deviation",
+        "1.5 × Standard deviation"
+      ],
+      "correct_answer": "0.67 × Standard deviation",
+      "points": 3,
+      "category": "Statistical Analysis",
+      "difficulty": "hard",
+      "time_limit": 40,
+      "solution": "Probable error ≈ 0.6745 × Standard deviation ≈ 0.67 × Standard deviation",
+      "pyq_year": "RRB Advanced Pattern"
+    },
+    {
+      "id": "q41",
+      "text": "Gross errors are:",
+      "type": "multiple_choice",
+      "options": [
+        "Very small errors",
+        "Large errors due to human mistakes",
+        "Instrumental calibration errors",
+        "Environmental variations"
+      ],
+      "correct_answer": "Large errors due to human mistakes",
+      "points": 2,
+      "category": "Types of Errors",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "Gross errors are large errors typically caused by human mistakes like misreading, wrong calculations, or improper use of instruments.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q42",
+      "text": "To express the final result of an experiment, we should consider:",
+      "type": "multiple_choice",
+      "options": [
+        "Only the measured value",
+        "Only the error",
+        "Both measured value and uncertainty",
+        "Only significant figures"
+      ],
+      "correct_answer": "Both measured value and uncertainty",
+      "points": 2,
+      "category": "Result Reporting",
+      "difficulty": "easy",
+      "time_limit": 30,
+      "solution": "A complete experimental result should include both the measured value and its associated uncertainty or error.",
+      "pyq_year": "RRB Standard Pattern"
+    },
+    {
+      "id": "q43",
+      "text": "If volume V = 4πr³/3 and error in r is 1%, the percentage error in V is:",
+      "type": "multiple_choice",
+      "options": [
